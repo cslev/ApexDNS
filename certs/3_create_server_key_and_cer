@@ -1,0 +1,11 @@
+openssl genrsa \
+  -out server.key 2048
+
+Remember, our goal here is to create a server certificate for the DNS name localhost signed by the CA. 
+We now create a Certificate Signing Request (CSR) with the Common Name (CN) localhost:
+
+openssl req \
+  -new \
+  -key server.key \
+  -subj '/CN=localhost' \
+  -out server.csr

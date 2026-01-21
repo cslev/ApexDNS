@@ -1,0 +1,11 @@
+
+Procedure
+
+1    Copy the CRT and KEY files to the OpenSSL installation directory.
+    For example: cd c:\OpenSSL-Win32\bin
+2    Open a Windows command prompt and, if necessary, navigate to the OpenSSL installation directory.
+3    Generate a PKCS#12 (PFX) keystore file from the certificate file and your private key.
+    For example: openssl pkcs12 -export -out server.p12 -inkey server.key -in server.crt -certfile CACert.crt
+    In this example, CACert.crt is the name of the root certificate that was returned by the certificate authority.
+    The Windows certificate store also accepts a keystore that is generated with a PFX extension. For example: -out server.pfx
+4    Type an export password to protect the PKCS#12 (PFX) file.

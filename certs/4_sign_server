@@ -1,0 +1,14 @@
+Using the CSR, the CA (really using the CA key and certificate) creates the signed certificate:
+
+openssl x509 \
+  -req \
+  -in server.csr \
+  -CA ca.crt \
+  -CAkey ca.key \
+  -CAcreateserial \
+  -days 365 \
+  -out server.crt
+
+
+the CAcreateserial option that manages a newly created file, ca.srl, that enables each certificate 
+created by this CA to have a unique serial number.

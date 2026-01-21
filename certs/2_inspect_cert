@@ -1,0 +1,15 @@
+We can turn-around and inspect the certificate using the following command:
+
+openssl x509 \
+  --in ca.crt \
+  -text \
+  --noout
+
+
+
+Both the Subject and Issuer have the value CN = my-ca; this indicates that this certificate is self-signed
+
+The Validity indicates that the certificate is valid for a year
+
+The X509v3 Basic Constraints value CA:TRUE indicate that this certificate can be used as a CA, 
+i.e., can be used to sign certificates

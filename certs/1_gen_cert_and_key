@@ -1,0 +1,19 @@
+openssl req \
+  -new \
+  -x509 \
+  -nodes \
+  -days 365 \
+  -subj '/CN=my-ca' \
+  -keyout ca.key \
+  -out ca.crt
+
+This outputs two files, ca.key and ca.crt, in the PEM format (base64 encoding of the private key and X.509 certificate respectively).
+
+Looking at the openssl req documentation, we see that the -new and -x509 options enable the creation of a self-signed 
+root CA X.509 certificate. 
+The nodes (No DES) option disables securing the private key with a pass-code; this option is optional. 
+The subj option provides the CA’s identity; in this case the Common Name (CN) of my-ca. 
+The remaining options are self-explanatory.
+
+
+

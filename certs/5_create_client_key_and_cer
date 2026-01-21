@@ -1,0 +1,35 @@
+We essentially repeat the process to create the client’s key and certificate; starting by creating the client’s key:
+
+openssl genrsa \
+  -out client.key 2048
+
+
+Creating the CSR with the arbitrary Common Name of my-client:
+
+openssl req \
+  -new \
+  -key client.key \
+  -subj '/CN=my-client' \
+  -out client.csr
+
+And finally the creating the client’s certificate:
+
+openssl x509 \
+  -req \
+  -in client.csr \
+  -CA ca.crt \
+  -CAkey ca.key \
+  -CAcreateserial \
+  -days 365 \
+  -out client.crt
+
+note: If you inspect this certificate, you will observe that the Serial Number is indeed different than the server’s certificate.
+
+One observation is that both the server and client certificates are simpler X.509 v1 certificates; 
+the CA certificate however is a X.509 v3 certificate. 
+This is because OpenSSL automatically creates X.508 v3 self-signed certificates (CA certificate) and we did not supply 
+any v3 extensions when signing the server and client certificates (using the extfile and extensions options).
+
+note: The use of various X.509 v3 extensions is outside the scope of this article; besides I have not found any 
+simple explanations of them myself.
+
