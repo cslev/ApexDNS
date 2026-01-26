@@ -1,0 +1,718 @@
+HTTPS and H3 Support Analysis
+Started at: Tue 20 Jan 2026 12:20:30 PM +08
+======================================
+
+google.com: HTTPS + H3
+facebook.com: HTTPS + H3
+youtube.com: HTTPS only
+instagram.com: HTTPS + H3
+cloudflare.com: HTTPS + H3
+amazon.com: HTTPS only
+fbcdn.net: HTTPS + H3
+youtu.be: HTTPS only
+cloudflare.net: HTTPS only
+cloudflare-dns.com: HTTPS + H3
+facebook-hardware.com: HTTPS + H3
+nih.gov: HTTPS only
+w3.org: HTTPS + H3
+hipages.com.au: HTTPS only
+example.com: HTTPS only
+creativecommons.org: HTTPS only
+sciencedirect.com: HTTPS only
+youtube-nocookie.com: HTTPS only
+hubspot.com: HTTPS only
+tinyurl.com: HTTPS + H3
+doi.org: HTTPS + H3
+b-cdn.net: HTTPS only
+www.gov.uk: HTTPS only
+discord.com: HTTPS + H3
+indeed.com: HTTPS + H3
+atlassian.net: HTTPS only
+hostgator.com: HTTPS only
+stackoverflow.com: HTTPS only
+discord.gg: HTTPS only
+mi.com: HTTPS only
+addtoany.com: HTTPS + H3
+duckdns.org: HTTPS only
+pixabay.com: HTTPS + H3
+amazon.de: HTTPS only
+cambridge.org: HTTPS only
+digitalocean.com: HTTPS only
+loc.gov: HTTPS only
+yelp.com: HTTPS only
+fb.com: HTTPS + H3
+jquery.com: HTTPS only
+onetrust.com: HTTPS only
+patreon.com: HTTPS only
+hostgator.com.br: HTTPS only
+ietf.org: HTTPS + H3
+atlassian.com: HTTPS only
+aboutads.info: HTTPS only
+bluehost.com: HTTPS only
+xhamster.com: HTTPS + H3
+cookielaw.org: HTTPS only
+prnewswire.com: HTTPS only
+name.com: HTTPS + H3
+tandfonline.com: HTTPS + H3
+hugedomains.com: HTTPS only
+calendly.com: HTTPS only
+doordash.com: HTTPS + H3
+mediafire.com: HTTPS + H3
+investopedia.com: HTTPS + H3
+usda.gov: HTTPS only
+google.com.tr: HTTPS only
+kickstarter.com: HTTPS only
+udemy.com: HTTPS only
+fiverr.com: HTTPS only
+people.com: HTTPS + H3
+chaturbate.com: HTTPS + H3
+ipify.org: HTTPS only
+allaboutcookies.org: HTTPS + H3
+upwork.com: HTTPS + H3
+bootstrapcdn.com: HTTPS + H3
+discordapp.com: HTTPS + H3
+fbsbx.com: HTTPS + H3
+brave.com: HTTPS + H3
+fb.me: HTTPS + H3
+genius.com: HTTPS only
+amazon.es: HTTPS only
+unpkg.com: HTTPS + H3
+quizlet.com: HTTPS only
+onesignal.com: HTTPS + H3
+apnews.com: HTTPS + H3
+livechatinc.com: HTTPS only
+fdv2-t-msedge.net: HTTPS only
+spankbang.com: HTTPS + H3
+agoda.com: HTTPS only
+chess.com: HTTPS + H3
+openstreetmap.org: HTTPS only
+ys7.com: HTTPS only
+surfshark.com: HTTPS + H3
+ui-dns.com: HTTPS only
+trendyol.com: HTTPS only
+pexels.com: HTTPS + H3
+about.com: HTTPS + H3
+wpengine.com: HTTPS only
+nexusmods.com: HTTPS only
+ilovepdf.com: HTTPS only
+mashable.com: HTTPS only
+sciencedaily.com: HTTPS only
+reverso.net: HTTPS only
+typepad.com: HTTPS only
+dnsv1.com: HTTPS only
+quizizz.com: HTTPS only
+poki.com: HTTPS + H3
+apkpure.com: HTTPS only
+ubi.com: HTTPS only
+cookiedatabase.org: HTTPS + H3
+archiveofourown.org: HTTPS + H3
+ixl.com: HTTPS only
+omegle.com: HTTPS + H3
+telegraaf.nl: HTTPS only
+character.ai: HTTPS + H3
+nakheelteam.cc: HTTPS + H3
+vg.no: HTTPS + H3
+boyfriendtv.com: HTTPS + H3
+readthedocs.io: HTTPS + H3
+nhentai.net: HTTPS only
+rule34.xxx: HTTPS + H3
+faphouse.com: HTTPS + H3
+wyzecam.com: HTTPS only
+hitomi.la: HTTPS + H3
+remove.bg: HTTPS + H3
+xhamster.desi: HTTPS + H3
+furaffinity.net: HTTPS only
+pravda.com.ua: HTTPS + H3
+betano.com: HTTPS + H3
+plesk.com: HTTPS + H3
+coolmathgames.com: HTTPS only
+namu.wiki: HTTPS + H3
+fb.watch: HTTPS + H3
+hltv.org: HTTPS + H3
+dagbladet.no: HTTPS + H3
+noodlemagazine.com: HTTPS + H3
+gelbooru.com: HTTPS only
+1mg.com: HTTPS + H3
+aternos.org: HTTPS only
+aniwatch.to: HTTPS + H3
+sozcu.com.tr: HTTPS only
+imhentai.xxx: HTTPS + H3
+aznude.com: HTTPS + H3
+haberler.com: HTTPS + H3
+nairaland.com: HTTPS only
+jusbrasil.com.br: HTTPS only
+litnet.com: HTTPS only
+ilmeteo.it: HTTPS only
+e-hentai.org: HTTPS + H3
+cloudflareclient.com: HTTPS only
+e621.net: HTTPS + H3
+ficbook.net: HTTPS + H3
+jut.su: HTTPS only
+notion.so: HTTPS + H3
+iporntv.net: HTTPS only
+jable.tv: HTTPS + H3
+xvideos2.com: HTTPS only
+index.hr: HTTPS only
+exhentai.org: HTTPS + H3
+ixxx.com: HTTPS only
+3bmeteo.com: HTTPS + H3
+betnacional.com: HTTPS + H3
+4kporn.xxx: HTTPS + H3
+mangalivre.net: HTTPS + H3
+perfectdomain.com: HTTPS only
+cnbcindonesia.com: HTTPS only
+sxyprn.com: HTTPS + H3
+kompoz2.com: HTTPS + H3
+jutarnji.hr: HTTPS + H3
+syosetu.org: HTTPS only
+bookmyshow.com: HTTPS + H3
+69shuba.com: HTTPS + H3
+ok.xxx: HTTPS only
+snaptik.app: HTTPS + H3
+hollywoodbets.net: HTTPS + H3
+mediaexpert.pl: HTTPS only
+myreadingmanga.info: HTTPS + H3
+luxuretv.com: HTTPS + H3
+ssstik.io: HTTPS + H3
+mangago.me: HTTPS only
+brainly.com.br: HTTPS only
+xhamster1.desi: HTTPS + H3
+fuq.com: HTTPS only
+mintnav.com: HTTPS only
+xnxx.health: HTTPS + H3
+apkcombo.com: HTTPS only
+mangatoto.com: HTTPS + H3
+fapello.com: HTTPS only
+pussyspace.com: HTTPS + H3
+porn300.com: HTTPS + H3
+brainly.co.id: HTTPS only
+testbook.com: HTTPS only
+mangakakalot.com: HTTPS + H3
+manganato.com: HTTPS + H3
+nitrotype.com: HTTPS + H3
+sondakika.com: HTTPS + H3
+argentina.gob.ar: HTTPS only
+goojara.to: HTTPS + H3
+serviporno.com: HTTPS + H3
+snapinsta.app: HTTPS only
+betway.co.za: HTTPS + H3
+kurir.rs: HTTPS only
+tukif.com: HTTPS + H3
+redwap-xxx.com: HTTPS + H3
+xvideos3.com: HTTPS only
+brainly.in: HTTPS only
+spankbang.party: HTTPS + H3
+xnxx2.com: HTTPS only
+xvideos.es: HTTPS only
+arca.live: HTTPS + H3
+lectortmo.com: HTTPS + H3
+ifilo.net: HTTPS only
+xxx18.uno: HTTPS + H3
+ijavhd.com: HTTPS + H3
+supjav.com: HTTPS only
+doujindesu.tv: HTTPS + H3
+indianhardtube.com: HTTPS + H3
+pixbet.com: HTTPS + H3
+shahvani.com: HTTPS only
+pornocarioca.com: HTTPS + H3
+xosodaiphat.com: HTTPS + H3
+fatalmodel.com: HTTPS + H3
+beboo.ru: HTTPS only
+listcrawler.eu: HTTPS only
+wapoz.info: HTTPS + H3
+deepl.com: HTTPS + H3
+justindianpornx.com: HTTPS + H3
+coinpayu.com: HTTPS only
+toyhou.se: HTTPS only
+sexalarab.com: HTTPS only
+ddd-smart.net: HTTPS + H3
+patria.org.ve: HTTPS only
+1377x.to: HTTPS + H3
+animeflv.net: HTTPS + H3
+cardmarket.com: HTTPS + H3
+brainly.lat: HTTPS only
+bikewale.com: HTTPS only
+pornozavr.net: HTTPS + H3
+doublelist.com: HTTPS + H3
+livescore.in: HTTPS only
+storysaver.net: HTTPS only
+xoso.com.vn: HTTPS + H3
+skipthegames.com: HTTPS + H3
+theqoo.net: HTTPS + H3
+rajwap.cc: HTTPS + H3
+autoplius.lt: HTTPS only
+chordtela.com: HTTPS only
+conectate.com.do: HTTPS only
+skokka.com: HTTPS only
+onlyindianpornx.com: HTTPS + H3
+xnxx3.com: HTTPS only
+xgx.mobi: HTTPS + H3
+wuxiap.com: HTTPS + H3
+animanch.com: HTTPS only
+dogdrip.net: HTTPS only
+goindian.net: HTTPS + H3
+vlxx.moe: HTTPS + H3
+battwo.com: HTTPS + H3
+list.am: HTTPS + H3
+indiansextube.org: HTTPS + H3
+apornvideo.com: HTTPS + H3
+otvfoco.com.br: HTTPS + H3
+qorno.com: HTTPS only
+sex4arab.xxx: HTTPS + H3
+learncbse.in: HTTPS only
+sexemodel.com: HTTPS only
+hot-hard-porn.com: HTTPS + H3
+sexindrag.com: HTTPS + H3
+evexxx.com: HTTPS + H3
+gekso.xyz: HTTPS + H3
+goal.co: HTTPS + H3
+happymh.com: HTTPS + H3
+betika.com: HTTPS + H3
+manga168.com: HTTPS + H3
+arbada.com: HTTPS + H3
+tamilyogi.band: HTTPS + H3
+milf33.com: HTTPS + H3
+czbooks.net: HTTPS only
+indiansexmms.me: HTTPS + H3
+xnxxsex.net: HTTPS + H3
+kamababa.desi: HTTPS + H3
+pornhat.one: HTTPS only
+xxxnd.com: HTTPS + H3
+rst.ua: HTTPS only
+ojogodobicho.com: HTTPS + H3
+dewafilm.xyz: HTTPS + H3
+in3x.net: HTTPS + H3
+centraldasapostas.net: HTTPS + H3
+skelbiu.lt: HTTPS only
+82xnxx.com: HTTPS + H3
+porno18.site: HTTPS + H3
+shaalaa.com: HTTPS + H3
+escortbabylon.net: HTTPS only
+bbb.org: HTTPS + H3
+olimpbet.kz: HTTPS + H3
+annunci69.it: HTTPS only
+mobcup.net: HTTPS + H3
+mobile-tracker-free.com: HTTPS only
+avto.net: HTTPS only
+az24.vn: HTTPS only
+xvideos4.com: HTTPS only
+dto.to: HTTPS + H3
+123-hd.com: HTTPS only
+destacamos.com: HTTPS + H3
+hindixxxhd.com: HTTPS + H3
+betproexch.com: HTTPS + H3
+thscore.mobi: HTTPS only
+escort.club: HTTPS + H3
+hto.to: HTTPS + H3
+tmohentai.com: HTTPS + H3
+hdhindisex.com: HTTPS + H3
+hentailib.me: HTTPS only
+slashlib.me: HTTPS + H3
+xvideos53.com: HTTPS only
+xvideosxnxx.org: HTTPS + H3
+holoo.fun: HTTPS + H3
+betway.co.zm: HTTPS only
+11xplay.com: HTTPS + H3
+madrasati.sa: HTTPS only
+satta-king-fast.com: HTTPS + H3
+onlar.az: HTTPS + H3
+substack.com: HTTPS + H3
+acuityscheduling.com: HTTPS only
+nregastrep.nic.in: HTTPS only
+hubspot.net: HTTPS + H3
+anydesk.com: HTTPS only
+messenger.com: HTTPS + H3
+gizmodo.com: HTTPS + H3
+ringcentral.com: HTTPS only
+elegantthemes.com: HTTPS only
+stackexchange.com: HTTPS only
+nordvpn.com: HTTPS + H3
+webs.com: HTTPS + H3
+getbootstrap.com: HTTPS + H3
+pnas.org: HTTPS + H3
+sweetxladies.com: HTTPS only
+volusion.com: HTTPS + H3
+www.nhs.uk: HTTPS only
+curseforge.com: HTTPS + H3
+discord.media: HTTPS only
+figma.com: HTTPS + H3
+eu-1-id5-sync.com: HTTPS only
+miitbeian.gov.cn: HTTPS only
+pcmag.com: HTTPS + H3
+glassdoor.com: HTTPS + H3
+zopim.com: HTTPS only
+google.com.ua: HTTPS only
+digitaloceanspaces.com: HTTPS only
+netlify.app: HTTPS only
+aboutcookies.org: HTTPS + H3
+senate.gov: HTTPS only
+qz.com: HTTPS only
+dropcatch.com: HTTPS only
+today.com: HTTPS only
+pages.dev: HTTPS only
+miro.com: HTTPS + H3
+earthlink.net: HTTPS only
+a2hosting.com: HTTPS only
+bidmachine.io: HTTPS only
+lego.com: HTTPS only
+oculus.com: HTTPS + H3
+tsn.ua: HTTPS + H3
+m.me: HTTPS + H3
+permutive.app: HTTPS only
+mixcloud.com: HTTPS + H3
+workers.dev: HTTPS only
+acm.org: HTTPS + H3
+scmp.com: HTTPS + H3
+signal.org: HTTPS + H3
+domainmarket.com: HTTPS only
+clevelandclinic.org: HTTPS + H3
+xhamster3.com: HTTPS + H3
+moodle.org: HTTPS only
+youjizz.sex: HTTPS + H3
+almasryalyoum.com: HTTPS only
+cloudhub.io: HTTPS only
+9animetv.to: HTTPS + H3
+ihc.ru: HTTPS only
+fuckmoral.com: HTTPS + H3
+topmanhua.com: HTTPS + H3
+abola.pt: HTTPS + H3
+script.ac: HTTPS only
+thoughtco.com: HTTPS + H3
+receitatodahora.com.br: HTTPS only
+readmanga.live: HTTPS + H3
+doramy.club: HTTPS + H3
+borwap.pro: HTTPS + H3
+altibbi.com: HTTPS only
+porno-zona.com: HTTPS + H3
+hentai.name: HTTPS + H3
+anybunny.org: HTTPS + H3
+coffeemanga.io: HTTPS + H3
+indiansexbar.mobi: HTTPS + H3
+androidwaves.com: HTTPS + H3
+fanbox.cc: HTTPS + H3
+hdsex.pro: HTTPS + H3
+ruperttube.net: HTTPS + H3
+obilet.com: HTTPS only
+tawk.to: HTTPS + H3
+xxxindianporn.org: HTTPS + H3
+pornfuck.net: HTTPS only
+standardnews.com: HTTPS + H3
+xklxsw.net: HTTPS + H3
+quillbot.com: HTTPS only
+pussyboy.net: HTTPS + H3
+ico.org.uk: HTTPS only
+useinsider.com: HTTPS only
+fulldesisex.com: HTTPS + H3
+sexybluefilm.com: HTTPS + H3
+streameast2.com: HTTPS + H3
+novelusb.com: HTTPS + H3
+sattamatkaco.com: HTTPS + H3
+register.com: HTTPS only
+xvideos10.blog.br: HTTPS + H3
+investing.com: HTTPS + H3
+remotepc.com: HTTPS only
+lifehacker.com: HTTPS + H3
+zeotap.com: HTTPS only
+capitaloneshopping.com: HTTPS + H3
+blaze.com: HTTPS + H3
+seedtag.com: HTTPS + H3
+crunchyroll.com: HTTPS + H3
+asura.gg: HTTPS + H3
+colamanhua.com: HTTPS + H3
+ludoplayers.com: HTTPS + H3
+congress.gov: HTTPS only
+flightradar24.com: HTTPS + H3
+tesla.services: HTTPS only
+rfc-editor.org: HTTPS + H3
+livechatenterprise.com: HTTPS + H3
+gimy.app: HTTPS + H3
+dpbosss.com: HTTPS + H3
+spboss.co: HTTPS + H3
+sattamatkano1.co: HTTPS + H3
+home-assistant.io: HTTPS + H3
+itch.io: HTTPS only
+blooket.com: HTTPS only
+arnebrachhold.de: HTTPS + H3
+allrecipes.com: HTTPS + H3
+about.me: HTTPS only
+lenovomm.com: HTTPS only
+moz.com: HTTPS + H3
+belkin.com: HTTPS only
+adguard.com: HTTPS + H3
+futbin.com: HTTPS + H3
+dnsv1.com.cn: HTTPS only
+cdn13.com: HTTPS only
+coingecko.com: HTTPS + H3
+miibeian.gov.cn: HTTPS only
+xgroovy.com: HTTPS + H3
+boston.com: HTTPS only
+mcafee-cloud.com: HTTPS only
+keenetic.pro: HTTPS only
+easybrain.com: HTTPS + H3
+joomla.org: HTTPS only
+theregister.com: HTTPS + H3
+opensource.org: HTTPS only
+thebalancemoney.com: HTTPS + H3
+typing.com: HTTPS + H3
+thefreedictionary.com: HTTPS + H3
+padlet.com: HTTPS + H3
+video.az: HTTPS + H3
+mathplayground.com: HTTPS only
+tktube.com: HTTPS + H3
+justhost.ru: HTTPS only
+backblaze.com: HTTPS + H3
+cancer.gov: HTTPS only
+artstation.com: HTTPS only
+medscape.com: HTTPS + H3
+love4porn.com: HTTPS + H3
+pastebin.com: HTTPS only
+caliente.mx: HTTPS + H3
+2miners.com: HTTPS + H3
+nettruyenus.com: HTTPS only
+novell.com: HTTPS only
+is.gd: HTTPS only
+prokerala.com: HTTPS + H3
+wd2go.com: HTTPS only
+lenta.ru: HTTPS only
+qiniudns.com: HTTPS only
+brainly.ph: HTTPS only
+forebet.com: HTTPS only
+nyc.gov: HTTPS only
+thingiverse.com: HTTPS + H3
+tvonenews.com: HTTPS + H3
+hotindianporn.mobi: HTTPS + H3
+indianpornvideos.me: HTTPS + H3
+gekso.com: HTTPS + H3
+fsiblog.club: HTTPS + H3
+crunchbase.com: HTTPS only
+git-scm.com: HTTPS only
+loom.com: HTTPS + H3
+orcid.org: HTTPS only
+batocomic.com: HTTPS + H3
+indianbfvideos.com: HTTPS + H3
+mmcdn.com: HTTPS + H3
+sattamatkano1.me: HTTPS + H3
+lotterysambad.one: HTTPS + H3
+kolkataff.in: HTTPS + H3
+dtvce.com: HTTPS only
+feedly.com: HTTPS + H3
+npmjs.com: HTTPS only
+themegrill.com: HTTPS + H3
+plex.direct: HTTPS only
+yolasite.com: HTTPS + H3
+gravitational.io: HTTPS + H3
+wpastra.com: HTTPS + H3
+piratbit.fun: HTTPS + H3
+thehindu.com: HTTPS + H3
+example.org: HTTPS only
+verywellmind.com: HTTPS + H3
+heylink.me: HTTPS + H3
+prweb.com: HTTPS only
+ipcc.ch: HTTPS only
+openldap.org: HTTPS only
+pcworld.com: HTTPS only
+bestsexpornx.com: HTTPS + H3
+southwest.com: HTTPS only
+nodejs.org: HTTPS only
+codepen.io: HTTPS + H3
+gumroad.com: HTTPS + H3
+lontv.mobi: HTTPS + H3
+prestashop.com: HTTPS only
+upstart.com: HTTPS + H3
+znanija.com: HTTPS only
+buydomains.com: HTTPS only
+nobelprize.org: HTTPS + H3
+hcaptcha.com: HTTPS + H3
+aj1907.online: HTTPS + H3
+snopes.com: HTTPS only
+colamanga.com: HTTPS + H3
+nz.ua: HTTPS only
+qualys.com: HTTPS only
+news.cn: HTTPS only
+atlasobscura.com: HTTPS + H3
+okxxx1.com: HTTPS only
+news24.com: HTTPS + H3
+phpbb.com: HTTPS only
+onlyindianx.cc: HTTPS + H3
+videoplayerhub.com: HTTPS only
+tvtropes.org: HTTPS only
+verywellhealth.com: HTTPS + H3
+wireshark.org: HTTPS + H3
+meta.com: HTTPS + H3
+independent.ie: HTTPS only
+surriel.com: HTTPS only
+tagesspiegel.de: HTTPS only
+thespruce.com: HTTPS + H3
+findlaw.com: HTTPS + H3
+tfl.gov.uk: HTTPS only
+dpboss.services: HTTPS + H3
+dpbossnet.news: HTTPS + H3
+market-trk.com: HTTPS + H3
+hybrid.ai: HTTPS only
+5movierulz.mov: HTTPS + H3
+hubapi.com: HTTPS only
+poshanabhiyaan.gov.in: HTTPS only
+xundns.com: HTTPS only
+dnspod.com: HTTPS only
+ew.com: HTTPS + H3
+iastate.edu: HTTPS only
+yp.to: HTTPS only
+websupport.sk: HTTPS only
+samsungrs.com: HTTPS only
+brandmetrics.com: HTTPS only
+pinterest.de: HTTPS only
+buzzsprout.com: HTTPS only
+softwareadvice.com: HTTPS + H3
+wsu.edu: HTTPS only
+opensea.io: HTTPS only
+kroger.com: HTTPS only
+rte.ie: HTTPS + H3
+cpanel.com: HTTPS only
+japantimes.co.jp: HTTPS only
+ourworldindata.org: HTTPS + H3
+macrumors.com: HTTPS + H3
+liveabout.com: HTTPS + H3
+victoriassecret.com: HTTPS only
+bunny.net: HTTPS only
+lifewire.com: HTTPS + H3
+theregister.co.uk: HTTPS + H3
+worldometers.info: HTTPS + H3
+envato.com: HTTPS only
+leetcode.com: HTTPS only
+notion.site: HTTPS + H3
+worldcat.org: HTTPS only
+quantumdex.io: HTTPS + H3
+tanium.com: HTTPS only
+ziprecruiter.com: HTTPS + H3
+theepochtimes.com: HTTPS only
+foreignpolicy.com: HTTPS + H3
+crazygames.com: HTTPS only
+hindawi.com: HTTPS + H3
+techrepublic.com: HTTPS only
+sciencealert.com: HTTPS + H3
+redbubble.com: HTTPS + H3
+pushimg.com: HTTPS only
+al-array.com: HTTPS only
+homestead.com: HTTPS only
+fireeye.com: HTTPS only
+federalreserve.gov: HTTPS only
+nipr.mil: HTTPS only
+nielsencollections.com: HTTPS only
+kbnmnl.com: HTTPS + H3
+etherscan.io: HTTPS + H3
+collinsdictionary.com: HTTPS + H3
+politico.eu: HTTPS + H3
+searchengineland.com: HTTPS only
+ct.gov: HTTPS only
+telefonica.com: HTTPS only
+letterboxd.com: HTTPS only
+ahrefs.com: HTTPS + H3
+zijieapi.com: HTTPS only
+netdna-ssl.com: HTTPS + H3
+namebright.com: HTTPS only
+nhl.com: HTTPS only
+zoominfo.com: HTTPS + H3
+eatingwell.com: HTTPS + H3
+slickdeals.net: HTTPS only
+ko-fi.com: HTTPS only
+kotaku.com: HTTPS + H3
+domain.com: HTTPS only
+google.nu: HTTPS only
+google.tg: HTTPS only
+nvidiagrid.net: HTTPS only
+theathletic.com: HTTPS only
+mattermost.com: HTTPS only
+gitbook.io: HTTPS + H3
+value-domain.com: HTTPS + H3
+wa.link: HTTPS only
+treehugger.com: HTTPS + H3
+ams1907.com: HTTPS only
+pingdom.net: HTTPS only
+lunalabs.io: HTTPS only
+upi.com: HTTPS only
+doxygen.org: HTTPS + H3
+getepic.com: HTTPS + H3
+findagrave.com: HTTPS + H3
+cyberark.com: HTTPS + H3
+sfn.cn: HTTPS only
+cointelegraph.com: HTTPS + H3
+gname-dns.com: HTTPS only
+coursehero.com: HTTPS only
+in.gov: HTTPS only
+icanhazip.com: HTTPS + H3
+fpbns.net: HTTPS only
+rtbsystem.com: HTTPS + H3
+chinanews.com: HTTPS only
+thunderbird.net: HTTPS + H3
+neilpatel.com: HTTPS + H3
+freetype.org: HTTPS + H3
+banahosting.com: HTTPS + H3
+ehow.com: HTTPS + H3
+lightboxcdn.com: HTTPS only
+marinetraffic.com: HTTPS + H3
+getgreenshot.org: HTTPS + H3
+000webhostapp.com: HTTPS only
+xhamsterlive.com: HTTPS + H3
+routledge.com: HTTPS + H3
+videotron.ca: HTTPS only
+worldtimeserver.com: HTTPS only
+livechat.com: HTTPS only
+replit.com: HTTPS + H3
+boingboing.net: HTTPS + H3
+vistaprint.com: HTTPS + H3
+listdl.com: HTTPS only
+fitanalytics.com: HTTPS only
+bumlam.com: HTTPS only
+kick.com: HTTPS + H3
+wallpapers.com: HTTPS only
+ajax.systems: HTTPS only
+imghst-de.com: HTTPS only
+savefrom.net: HTTPS + H3
+booth.pm: HTTPS + H3
+supapush.net: HTTPS only
+crowdstrike.com: HTTPS only
+reasonsecurity.com: HTTPS only
+bhg.com: HTTPS + H3
+cookieyes.com: HTTPS + H3
+gigaset-elements.com: HTTPS + H3
+stripst.com: HTTPS + H3
+7tv.app: HTTPS + H3
+reacciun.ve: HTTPS only
+dawn.com: HTTPS only
+wise.com: HTTPS + H3
+mailerlite.com: HTTPS + H3
+ueiwsp.com: HTTPS only
+microfocus.com: HTTPS only
+vinted.fr: HTTPS only
+symphony.com: HTTPS only
+modsecurity.org: HTTPS only
+codecademy.com: HTTPS only
+youversionapi.com: HTTPS only
+mangadex.org: HTTPS + H3
+000webhost.com: HTTPS + H3
+ximalaya.com: HTTPS only
+flightaware.com: HTTPS + H3
+marthastewart.com: HTTPS + H3
+serverwatch.com: HTTPS + H3
+apache-ssl.org: HTTPS + H3
+love.ru: HTTPS + H3
+sunista.info: HTTPS + H3
+todoist.com: HTTPS + H3
+tide.co: HTTPS only
+epam.com: HTTPS only
+desync.com: HTTPS + H3
+sprintlink.net: HTTPS only
+informer.com: HTTPS only
+mca.gov.in: HTTPS only
+dailystar.co.uk: HTTPS only
+newsbreak.com: HTTPS only
+sage.com: HTTPS only
+
+======================================
+SUMMARY
+======================================
+Total domains: 5000
+HTTPS records: 705
+H3 support: 375
+HTTPS adoption: 14.10%
+H3 adoption (among HTTPS): 53.19%

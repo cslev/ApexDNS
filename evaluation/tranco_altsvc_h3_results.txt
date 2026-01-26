@@ -1,0 +1,4473 @@
+Alt-Svc and H3 Support Analysis
+Started at: Tue 20 Jan 2026 06:23:21 PM +08
+======================================
+
+google.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+facebook.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+googleapis.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+youtube.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+instagram.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+cloudflare.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gstatic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+linkedin.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+live.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+
+googleusercontent.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+amazon.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fbcdn.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+fastly.net: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+wordpress.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bing.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=93600
+
+youtu.be: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pinterest.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=604800
+
+spotify.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+ui.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+goo.gl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mozilla.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+wordpress.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bit.ly: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+zoom.us: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+blogspot.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+googledomains.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+whatsapp.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+whatsapp.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+outlook.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+
+cloudflare-dns.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pki.goog: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+dropbox.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+snapchat.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+tumblr.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gravatar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sentry.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mozilla.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pubmatic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wa.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gmail.com: alt-svc + H3
+  Header: alt-svc: clear
+alt-svc: clear
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cnn.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+forms.gle: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+medium.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+w3.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bbc.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+theguardian.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+hipages.com.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+epicgames.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+forbes.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+bbc.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+dns.google: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+samsung.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+sourceforge.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+googleblog.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+imdb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kaspersky.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400; persist=1
+
+who.int: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ampproject.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+go.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hwcdn.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amazon.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wp.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+researchgate.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+android.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+slideshare.net: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+shopify.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+doi.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+www.gov.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+discord.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+teamviewer.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+etsy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=7200
+
+indeed.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wiley.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+atlassian.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+slack.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, quic=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, quic=":443"; ma=2592000
+
+google.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nature.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+quora.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+dell.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+springer.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+bugsnag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+discord.gg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sophos.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+wix.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ea.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+cpanel.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=86400
+
+blogger.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+amazonalexa.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.co.jp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+takeaway.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+amazon.co.jp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+g.page: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pixabay.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amazon.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+scribd.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+wired.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+forter.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+surveymonkey.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+openai.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+behance.net: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+uber.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+myshopify.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amzn.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Alt-Svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+webmd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.ca: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+independent.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+google.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+yelp.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+berkeley.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+infonline.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+intel.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+latimes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mediatek.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+indiatimes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+theverge.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+tradingview.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ietf.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+watchguard.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+atlassian.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+alibaba.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
+
+google.co.in: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+autodesk.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+xhamster.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+freepik.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+
+homedepot.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pinimg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=604800
+
+cookielaw.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+name.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+britannica.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tandfonline.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+box.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=86400
+
+intercom.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+appspot.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+virtualearth.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+life360.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+instacart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.hk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+doordash.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.pl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pornhub.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+fda.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+airbnb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+mlb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mediafire.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+zillow.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amazon.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+investopedia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.mx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.tr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+service.gov.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+amazon.ca: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+business.site: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+temu.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443"; ma=86400
+
+shopee.co.id: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+people.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+paloaltonetworks.com: alt-svc only (no H3)
+chaturbate.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sitescout.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.cn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+allaboutcookies.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+t-online.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+networkadvertising.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wayfair.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.co.th: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+amazon.in: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+clever.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+jotform.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+upwork.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bootstrapcdn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+merriam-webster.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+a-mo.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.tw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+discordapp.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+shopee.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+umich.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+akismet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+onlyfans.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pixiv.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fbsbx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+brave.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+constantcontact.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fb.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bitly.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+disneyplus.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+thesun.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+economist.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+firefox.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pendo.io: alt-svc only (no H3)
+amazon.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+amazon.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wikihow.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+typeform.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gitlab.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fitbit.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+realtor.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+entergy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+repubblica.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hotmail.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=2592000,h3-29=":443";ma=2592000
+
+unpkg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+nest.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+linode.com: alt-svc + H3
+  Header: Alt-Svc: h3=":443"; ma=93600
+Alt-Svc: h3=":443"; ma=93600
+
+discogs.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ancestry.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+onet.pl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+onesignal.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+jimdo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+skroutz.gr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+apnews.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+classlink.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+amazon.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+ubnt.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ryanair.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+eporner.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+shutterstock.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+newyorker.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+weforum.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+francetvinfo.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+spankbang.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+split.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+chess.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+statuspage.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sportskeeda.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+withgoogle.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+surfshark.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+plos.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.ru: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+bol.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+
+pexels.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+about.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+trustarc.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+spamhaus.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+goal.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+ox.ac.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amazon.com.mx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+clarin.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+nu.nl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+cookpad.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+meethue.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+finn.no: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+poki.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ad.nl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+biomedcentral.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+ubi.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+recaptcha.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nikkei.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+cloudinary.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cookiedatabase.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+archiveofourown.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+online.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.nl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+omegle.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+20minutos.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+nexon.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+character.ai: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+datto.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+flashscore.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nakheelteam.cc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hln.be: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+livescore.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+urbanairship.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+vg.no: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+vnexpress.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+boyfriendtv.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+readthedocs.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+youporn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+rule34.xxx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+faphouse.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wyzecam.com: alt-svc only (no H3)
+turbosquid.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fetlife.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hitomi.la: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+xhamster.desi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sciencemag.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pravda.com.ua: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+expressen.se: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+timesofindia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+betano.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+feedburner.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+redtube.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+indiamart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+vox.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+homes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+plesk.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+byjus.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xhamster40.desi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gartner.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hdfcbank.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+namu.wiki: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ntppool.org: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+coigncard.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+fb.watch: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hltv.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+dagbladet.no: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+zhihu.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+noodlemagazine.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+oricon.co.jp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+verkada.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+donmai.us: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+youjizz.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+fmkorea.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+1mg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+digikala.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+cdiscount.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+aniwatch.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+imhentai.xxx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+aznude.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+evernote.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+haberler.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+truste.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+e-hentai.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ficbook.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+notion.so: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+jable.tv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+jstor.org: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+3bmeteo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+betnacional.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+4kporn.xxx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mangalivre.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amarujala.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+cardgames.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fanpage.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+sxyprn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kompoz2.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fantia.jp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+jutarnji.hr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ajio.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+bookmyshow.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+69shuba.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+justdial.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+blic.rs: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mat6tube.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kooora.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+snaptik.app: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hollywoodbets.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+myreadingmanga.info: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+luxuretv.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ssstik.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+googleoptimize.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xhamster1.desi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mintnav.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+
+xnxx.health: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mangatoto.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pussyspace.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+porn300.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+joyclub.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+science.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+nitrotype.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sondakika.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+livehindustan.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+goojara.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+serviporno.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+betway.co.za: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+redwap-xxx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+spankbang.party: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+arca.live: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sportybet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+Alt-Svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lectortmo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+xxx18.uno: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+wnacg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pornhub.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+ijavhd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+doujindesu.tv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+dondominio.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+alt-svc: h3=":443"; ma=3600
+
+indianhardtube.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pornocarioca.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xosodaiphat.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fatalmodel.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wapoz.info: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+deepl.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+justindianpornx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tubidy.watch: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ddd-smart.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+johnnys-web.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+1377x.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sonnenbatterie.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+animeflv.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bikewale.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pornozavr.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+doublelist.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+livescore.in: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xoso.com.vn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+skipthegames.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+theqoo.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+rajwap.cc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+truyenfull.vn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+onlyindianpornx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xgx.mobi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wuxiap.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+oecd.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+goindian.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+vlxx.moe: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+
+battwo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+list.am: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+indiansextube.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+apornvideo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+otvfoco.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sex4arab.xxx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hot-hard-porn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sexindrag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+evexxx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gekso.xyz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+goal.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+happymh.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+betika.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+flashscore.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+manga168.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+arbada.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+tamilyogi.band: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+milf33.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+indiansexmms.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+xnxxsex.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kamababa.desi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xxxnd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ojogodobicho.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+dewafilm.xyz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+in3x.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+centraldasapostas.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+82xnxx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+porno18.site: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+shaalaa.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bbb.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+olimpbet.kz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+letras.mus.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+
+mobcup.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+flashscore.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+dto.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+123-hd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+destacamos.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hindixxxhd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+promiedos.com.ar: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=86400
+
+betproexch.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+escort.club: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hto.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+turbo.az: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+geny.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+tmohentai.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hdhindisex.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+slashlib.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+xvideosxnxx.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hackerdoslot.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+11xplay.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+satta-king-fast.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lotterysambadresult.in: alt-svc + H3
+  Header: alt-svc: h3=":8443"; ma=2592000, h3-29=":8443"; ma=2592000, h3-Q050=":8443"; ma=2592000, h3-Q046=":8443"; ma=2592000, h3-Q043=":8443"; ma=2592000, quic=":8443"; ma=2592000; v="43,46"
+
+wordpress.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+onlar.az: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+substack.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+spiegel.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+slate.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+acronis.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+hubspot.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+messenger.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+glance.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gizmodo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+identrust.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+goguardian.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thetimes.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+auvik.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+churnzero.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+waze.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nordvpn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hbo.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+liftoff.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.id: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+adblockplus.org: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+pinterest.ca: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=604800
+
+entrepreneur.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+sfgate.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+guardian.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+webs.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+themeisle.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+privacymanager.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+getbootstrap.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+si.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+medallia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thelancet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pnas.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+techtarget.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+volusion.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+timeanddate.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sportradar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+curseforge.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+jetbrains.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+anchor.fm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+figma.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+usgs.gov: alt-svc + H3
+  Header: Alt-Svc: h3=":443"; ma=86400
+
+wetransfer.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+si.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+ampproject.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+drmgms.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+express.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+siemens.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+jwplayer.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+canada.ca: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+fool.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+livescience.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+indiegogo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pcmag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+glassdoor.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.ua: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+smartthings.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=93600
+
+shopeemobile.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
+
+aboutcookies.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gamerant.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+chegg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+logitech.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lkqd.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+cutt.ly: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wetter.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+miro.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ssa.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+supercell.com: alt-svc + H3
+  Header: Alt-Svc: h3=":443"; ma=86400
+
+disney.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+king.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+latamairlines.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+webpkgcache.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+screenrant.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+siriusxm.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+lego.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+oculus.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+tsn.ua: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+abplive.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+inleed.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+m.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+moengage.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+adkernel.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+nejm.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mixcloud.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+epicgames.dev: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bfmtv.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+amazon.eg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+umd.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+acm.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+scmp.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+signal.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.ch: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.be: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+hotstar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+ssrn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wordreference.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86
+alt-svc: h3=":443"; ma=86
+
+unimelb.edu.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+justice.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+clevelandclinic.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+openssl.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xhamster3.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+euronews.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+youjizz.sex: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+techradar.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+9animetv.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+primis.tech: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+smithsonianmag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ihc.ru: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fuckmoral.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.at: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+abola.pt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+thoughtco.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pbskids.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+truecaller.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+readmanga.live: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+doramy.club: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+onelink.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+jiomart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+
+stackpathcdn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+porno-zona.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+automattic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+hentai.name: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.sa: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+anybunny.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+dynamicyield.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+coffeemanga.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+karar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sto.cx: alt-svc + H3
+  Header: alt-svc: h3=":8443"; ma=2592000
+
+urbandictionary.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+indiansexbar.mobi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+androidwaves.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fanbox.cc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hdsex.pro: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ruperttube.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+tawk.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+xxxindianporn.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+standardnews.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+slashdot.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xklxsw.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pussyboy.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+db.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+sexybluefilm.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+shopifycloud.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+streameast2.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+novelusb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sattamatkaco.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+libsyn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xvideos10.blog.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.se: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nymag.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+investing.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lequipe.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+tmz.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lastpass.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+lifehacker.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+g.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ravm.tv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+trip.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+capitaloneshopping.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.vn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+blaze.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lnkd.in: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+brightspace.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+dot.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.cz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+seedtag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.sg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+last.fm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+crunchyroll.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+asura.gg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+colamanhua.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ludoplayers.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+esquire.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+intercom.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+uplynk.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+walgreens.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+parallels.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.pt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.ar: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.dk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+hindustantimes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+cymru.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+flightradar24.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.gr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+rfc-editor.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+livechatenterprise.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+iqiyi.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+google.hu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+grafana.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+gimy.app: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ipinfo.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ro: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+chron.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+web.dev: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+dpbosss.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bigcommerce.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+windy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.kr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+spboss.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sattamatkano1.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+run.app: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+home-assistant.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.ie: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+vogue.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+blogspot.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+arnebrachhold.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+allrecipes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ifood.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+goodhousekeeping.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+google.cl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cosmopolitan.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+apptentive.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+amazon.com.tr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+semrush.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+moz.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+indianexpress.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+nokia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+auth0.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+perl.org: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+digitaltrends.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+jagex.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+adguard.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+osu.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+futbin.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+translate.goog: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+fbi.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.sk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+elle.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+google.com.eg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.pe: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+thenai.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sueddeutsche.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+coingecko.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+xgroovy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+faz.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+easybrain.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+accor.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+consumerreports.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+generatepress.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+standard.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+elastic.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+heart.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+flaticon.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+
+vanityfair.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+theregister.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+intercomcdn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+thebalancemoney.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+typing.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+patch.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+k8s.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+thefreedictionary.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+padlet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+video.az: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tktube.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+slackb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, quic=":443"; ma=2592000
+
+backblaze.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+keplr.app: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+stuff.co.nz: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+medscape.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+love4porn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+boredpanda.com: alt-svc + H3
+  Header: Alt-Svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+schneier.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+climatempo.com.br: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tenor.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+caliente.mx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+cell.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+space.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+wufoo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+smartnews.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xe.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+seekingalpha.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+semanticscholar.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+klarna.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+prokerala.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=93600
+
+sbb.ch: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+france24.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+ventraip.net.au: alt-svc + H3
+  Header: alt-svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000
+
+google.com.ph: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cpan.org: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+nyc.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+webflow.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+impact-ad.jp: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+bleacherreport.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+nerdwallet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thingiverse.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pushwoosh.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tvonenews.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hotindianporn.mobi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+indianpornvideos.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+yallakora.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gekso.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+xiaohongshu.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+fsiblog.club: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+themoviedb.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pavietnam.vn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+helpshift.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+loom.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.nz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.no: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.fi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.za: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.il: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+batocomic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+indianbfvideos.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+nzherald.co.nz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mmcdn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sattamatkano1.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+curl.se: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+myfitnesspal.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lotterysambad.one: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kolkataff.in: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wurl.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+netgate.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+feedly.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+indeed.tech: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+themegrill.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+undp.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.com.my: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+clickup.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bustle.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sonnen.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+qnap.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+yolasite.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gravitational.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+dreamstime.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
+
+wpastra.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sba.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+tagesschau.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+piratbit.fun: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+zeasn.tv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+greenpeace.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+pinterest.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=604800
+
+ohchr.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gifshow.com: alt-svc only (no H3)
+senderscore.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.bg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+amazon.com.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thehindu.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+page.link: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+verywellmind.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+heylink.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+grindr.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+breitbart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cpi.ad.jp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mountain.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+softonic.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+livemint.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+menshealth.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+spaggiari.eu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.pk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.hr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+bestsexpornx.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+unsw.edu.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.ve: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+playtika.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+codepen.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.lt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+gumroad.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pghub.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+lontv.mobi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+harpersbazaar.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+upstart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ekatox.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nobelprize.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+openxcdn.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+hcaptcha.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+aj1907.online: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+adweek.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+redbull.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+kwai.com: alt-svc + H3
+  Header: alt-svc: quic=":443";ma=2592000;v="43"
+alt-svc: h3=":443"; ma=93600
+
+thousandeyes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+pcgamer.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+abc.es: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+paytm.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+jpost.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+womenshealthmag.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+wp.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+jwplatform.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+iterable.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+colamanga.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.ae: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+shopee.vn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+siteground.us: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+lse.ac.uk: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=60;
+
+audrte.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+meetme.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+myanimelist.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+
+atlasobscura.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ultimate-guitar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+tomsguide.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+9gag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+yle.fi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+oath.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ripe.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+outlookindia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+news24.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+colorlib.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+onlyindianx.cc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+study.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+verywellhealth.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+anyclip.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+wireshark.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ubereats.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+meta.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.rs: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.kz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+vwgroup.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600,h3-29=":443"; ma=93600
+
+perl.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+statsigapi.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+zapier.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+komoot.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+spreaker.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.np: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+bybit.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+ex.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thespruce.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bidtheatre.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ap.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+news18.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+polygon.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+findlaw.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bollyflix.tax: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+dpboss.services: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.by: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+dpbossnet.news: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+market-trk.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+redcross.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+sportradarserving.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+5movierulz.mov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hubapi.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.lv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+unam.mx: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+nbc.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+ew.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+vds-shop.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+howtogeek.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.bd: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.cr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.si: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+gq.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+simeji.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+jedox.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+the-sun.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+zillowstatic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+makeuseof.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+galaxydata.ru: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+pinterest.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=604800
+
+gamesradar.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+popularmechanics.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+clinicaltrials.gov: alt-svc only (no H3)
+google.com.ec: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+perimeterx.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+caranddriver.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+softwareadvice.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+betfair.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.ee: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ba: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+shopee.tw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+rte.ie: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.do: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cpanel.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=86400
+
+ourworldindata.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+macrumors.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+safety.google: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+tubitv.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+liveabout.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.ge: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ansa.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lifewire.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+shopee.ph: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+clinch.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+theregister.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+timesofisrael.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.uy: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+amnesty.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.gt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+worldometers.info: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+mysterium.network: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+zoom.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.lk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.ng: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.ma: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+monash.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+revenuecat.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+w.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+petfinder.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+peatix.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+bell-labs.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+notion.site: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.pr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+quantumdex.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.az: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ziprecruiter.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.uz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.jo: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+usabilla.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+mentalfloss.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+bom.gov.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+chewy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+alt-svc: h3=":443"; ma=93600
+
+hostinger.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.dz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+foreignpolicy.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tinypic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.sv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.iq: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.bo: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+arduino.cc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+straitstimes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.py: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+kolesa.kz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400; persist=1
+
+cookiebot.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sciencealert.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ndr.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=93600
+
+google.co.ke: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+clover.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+unep.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+unrealengine.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+redbubble.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.hn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+allianz.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+uberinternal.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.cat: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+dazn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.kh: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+paddypower.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.lu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ci: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.cm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+boutell.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+google.is: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.as: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.kw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+boutell.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+google.am: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+morningstar.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+threatlocker.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+blogspot.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.mn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+eater.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+kbnmnl.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.lb: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+etherscan.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+shopee.com.my: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+google.bs: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mediaset.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.jm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ad: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+trellix.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.cu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pinterest.fr: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=604800
+
+collinsdictionary.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+visualwebsiteoptimizer.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=86400
+
+google.com.ly: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mercedes-benz.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.com.mt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.md: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.pa: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+sydney.edu.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.co.mz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+politico.eu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.cf: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.qa: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.om: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+siemens.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.ag: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+telefonica.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.gh: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+blogspot.ca: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.kg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pb.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.ni: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.bw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.bi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.gg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.bh: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.ug: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ps: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.mm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ahrefs.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.cd: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+flipsnack.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+rokt.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.tn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.bj: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.et: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+alarabiya.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.sc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+poe.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.dm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.gi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.cg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xda-developers.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.mu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.bn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.cy: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mediarithmics.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+aylanetworks.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.tz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.bz: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+netdna-ssl.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.sn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+refinery29.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+box.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=86400
+
+google.co.zm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cargurus.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+google.je: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.ck: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.zw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+wired.co.uk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.tk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.al: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+featuregates.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.na: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.bf: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.cv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.gl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.fm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.rw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+drudgereport.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.com.ai: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+zoominfo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.tt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+softpedia.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.co.ls: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mass.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.com.af: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.mk: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+revjet.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+eatingwell.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.co.ao: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.li: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+qualcomm.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+kotaku.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.la: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+zappos.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.ht: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+apple.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ki: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.fj: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+usercentrics.eu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=86400
+
+google.so: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ms: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.sh: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.co.vi: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.vg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.mw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.dj: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.mg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.mv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ml: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.pn: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.vc: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.tm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ctrip.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.nu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.tg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.gy: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.vu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+aftonbladet.se: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+greenhouse.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.gm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.ws: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.us: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.sm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.nr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.sb: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.sl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+home.blog: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.td: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ardmediathek.de: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.st: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+userreport.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.gp: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.im: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+rediff.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+google.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+smallpdf.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+gitbook.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.me: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+20minutes.fr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+value-domain.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+ma-tag.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+bluecore.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pinterest.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=604800
+
+prodigygame.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+web.app: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+traveloka.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.ga: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+statsig.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+collider.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+t13.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+treehugger.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.ne: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.com.tj: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+shopee.co.th: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+google.com.pg: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+google.tl: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+self.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lnk.to: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+doxygen.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+tenor.co: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+propublica.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+prtimes.jp: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+irdeto.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+getepic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+findagrave.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+penguinrandomhouse.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+flingo.tv: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+cyberark.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.bt: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mobileiron.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+benzinga.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+cointelegraph.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+travelandleisure.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+google.com.nf: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ahajournals.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+icanhazip.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+digitalspy.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+rtbsystem.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+rd.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+teachable.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+airbrake.io: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thunderbird.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+neilpatel.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+zulily.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+freetype.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+skyscanner.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+matomo.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+banahosting.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+tomshardware.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+ehow.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+fortnite.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+marinetraffic.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+int08h.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+getgreenshot.org: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+google.sr: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+xhamsterlive.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+routledge.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+newgrounds.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+thinkwithgoogle.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+apptimize.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+vulture.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+replit.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+michigan.gov: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+boingboing.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+vistaprint.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lastampa.it: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+vonage.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+lazada.co.id: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+kick.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+athemes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+boardgamegeek.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+lazada.com.ph: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+buffalo.edu: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+uservoice.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+knowbe4.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+olo.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+edmunds.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+nationalpost.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+nic.site: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+savefrom.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+booth.pm: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bhg.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+eldiario.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000
+
+cookieyes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+hotmart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+gigaset-elements.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+7tv.app: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+nic.online: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+eagleeyenetworks.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+thecut.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+wise.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+mailerlite.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+reflected.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=3600
+
+icicibank.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+aliexpress.us: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+samsungmax.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+gmu.edu: alt-svc + H3
+  Header: Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+
+hetzner.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+merchant-center-analytics.goog: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ukr.net: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+thrillist.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+blogspot.com.es: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+pchome.com.tw: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+mangadex.org: alt-svc only (no H3)
+000webhost.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+nicehash.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+ladbrokes.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+flightaware.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+marthastewart.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+serverwatch.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+sunista.info: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+newcastle.edu.au: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+todoist.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+sharechat.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+cntraveler.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+domaintools.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+justwatch.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+desync.com: alt-svc + H3
+  Header: alt-svc: h3=":443"
+
+delish.com: alt-svc + H3
+  Header: alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+acast.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+srf.ch: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=93600
+
+cbr.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+urban-vpn.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+scotsman.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+
+ghostery.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+lexisnexis.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+bentley.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
+uadns.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+wizzair.com: alt-svc + H3
+  Header: alt-svc: h3=":443"; ma=86400
+alt-svc: h3=":443"; ma=86400
+
