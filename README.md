@@ -2,7 +2,9 @@
 This repo is for hacking your local DNS to make encrypted web browsing blazingly fast.
 
 <p align="center">
-  <img src="assets/apexdns.png" alt="ApexDNS" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="assets/apexdns.png" alt="ApexDNS" width="50%">
+  <br>
+  <em>Generated with Nano banana</em>
 </p>
 
 ## Problem of today's Internet
