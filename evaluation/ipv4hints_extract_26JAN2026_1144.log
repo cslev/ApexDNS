@@ -1,0 +1,5419 @@
+Starting ipv4hint extraction at Mon 26 Jan 2026 11:44:47 AM +08
+Input file: crux_https_h3_results_21JAN2026_1103.txt
+
+Found 1302 domains with HTTPS + H3 support
+
+[1] Querying 05.avsee.ru for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.24.155
+    - 172.66.163.193
+[2] Querying filmyfiy.top for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[3] Querying e-hentai.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.132.196
+    - 172.66.140.62
+[4] Querying imhentai.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.229
+    - 104.26.13.229
+    - 172.67.71.114
+[5] Querying faphouse1.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.5.170
+    - 172.67.133.167
+[6] Querying jp.mercari.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.37.23
+    - 172.64.150.233
+[7] Querying jp.spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[8] Querying kick.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.235.122
+    - 172.64.235.133
+[9] Querying jable.tv for HTTPS record...
+  - No HTTPS record
+[10] Querying hianime.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.0.192
+    - 172.67.128.56
+[11] Querying hot.noodlemagazine.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.149.135.3
+[12] Querying es.stripchat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.117.12
+    - 104.17.118.12
+[13] Querying linkmake.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.50.160
+    - 172.67.164.36
+[14] Querying lectormangaa.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.198
+    - 172.67.188.152
+[15] Querying googll.store for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.82.193
+    - 172.67.206.52
+[16] Querying m.ladies.de for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.32
+    - 104.18.9.32
+[17] Querying people.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[18] Querying moviesda14.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.150
+    - 172.67.182.19
+[19] Querying olxtwo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.152
+    - 172.67.146.108
+[20] Querying sex-studentki.team for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.17
+    - 172.67.155.10
+[21] Querying www.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[22] Querying www.hentai.name for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.179
+    - 172.67.139.21
+[23] Querying www.hollywoodbets.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.40.56
+    - 172.64.147.200
+[24] Querying www.eenadu.net for HTTPS record...
+  - No ipv4hint found
+[25] Querying www.mp4moviez.ing for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.35.69
+    - 172.67.215.58
+[26] Querying ww2.filmyfiy.mov for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.205
+    - 172.67.187.119
+[27] Querying www.pussyspace.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.148
+    - 172.66.174.141
+[28] Querying www.pussyboy.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.149
+    - 172.67.145.130
+[29] Querying xosodaiphat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.20.76
+    - 104.18.21.76
+[30] Querying xvideo.vlog.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.85.88
+    - 172.67.204.58
+[31] Querying tmohentai.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[32] Querying bingoplus.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.65.90.66
+    - 172.65.90.67
+[33] Querying chaturbate.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.207.112
+    - 104.18.208.112
+[34] Querying asuracomic.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.54.11
+    - 172.67.222.50
+[35] Querying komikcast03.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.83
+    - 172.67.181.64
+[36] Querying kompoz2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.61.56
+    - 172.67.206.129
+[37] Querying en1.savefrom.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.20.139
+    - 172.66.159.118
+[38] Querying clickpetroleoegas.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.212
+    - 104.26.7.212
+    - 172.67.73.157
+[39] Querying m.youtube.com for HTTPS record...
+  - No ipv4hint found
+[40] Querying mobcup.fm for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.159
+    - 172.67.205.108
+[41] Querying mingky02.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.31.21
+    - 172.66.172.163
+[42] Querying phimxxx.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.49.75
+    - 172.67.160.168
+[43] Querying nustargame.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.41.51
+    - 104.16.42.51
+[44] Querying sattamatkano1.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.73
+    - 104.26.1.73
+    - 172.67.73.121
+[45] Querying tktube.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.105
+    - 104.26.13.105
+    - 172.67.71.170
+[46] Querying www.chess.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.137.67
+    - 104.18.138.67
+    - 104.18.139.67
+    - 104.18.140.67
+    - 104.18.141.67
+[47] Querying www.hltv.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.212
+    - 172.64.146.44
+[48] Querying www.52shuku.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.19
+    - 172.67.217.238
+[49] Querying www.ojogodobicho.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.34.136
+    - 172.66.150.77
+[50] Querying www.tamildhool.tech for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.225
+    - 104.26.7.225
+    - 172.67.71.150
+
+Progress: 50 domains processed
+  - Domains with ipv4hint: 47
+  - Total IPs collected: 101
+
+[51] Querying www.sexybluefilm.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.242
+    - 172.67.216.224
+[52] Querying zonatmo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.91.243
+    - 172.67.182.42
+[53] Querying xnxx.com.se for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.158
+    - 172.67.210.85
+[54] Querying es.eporner.com for HTTPS record...
+  - No ipv4hint found
+[55] Querying xvideosputaria.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.50.204
+    - 172.67.166.202
+[56] Querying www.croxyproxy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.167
+    - 172.67.158.52
+[57] Querying business.facebook.com for HTTPS record...
+  - No ipv4hint found
+[58] Querying fr.xgroovy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.197
+    - 172.67.171.8
+[59] Querying gekso.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.182
+    - 104.26.9.182
+    - 172.67.71.157
+[60] Querying kolkataff.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.144
+    - 172.67.152.66
+[61] Querying ma.afribaba.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.28.136
+    - 172.66.152.129
+[62] Querying mawartotoborn.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.52.154
+    - 172.67.201.33
+[63] Querying missav.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.16.252
+    - 172.66.173.34
+[64] Querying in3x.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.215
+    - 104.26.7.215
+    - 172.67.68.195
+[65] Querying myreadingmanga.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.28.73
+    - 172.66.147.111
+[66] Querying poki.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.143.9
+    - 104.18.144.9
+[67] Querying ru.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[68] Querying ssstik.io for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.25.78
+    - 172.66.154.244
+[69] Querying spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[70] Querying rule34.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.5
+    - 172.66.156.23
+[71] Querying static.playtime.ph for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.85.47
+    - 104.16.86.47
+[72] Querying www.antarvasna3.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.24
+    - 104.26.11.24
+    - 172.67.69.155
+[73] Querying www.arabx.cam for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.96
+    - 104.26.9.96
+    - 172.67.75.34
+[74] Querying www.3bmeteo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.242.234
+    - 104.17.243.234
+[75] Querying www.joyclub.de for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.2
+    - 172.64.148.254
+[76] Querying www.filmyfiy.mov for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.205
+    - 172.67.187.119
+[77] Querying www.etsy.com for HTTPS record...
+  - No ipv4hint found
+[78] Querying ww1.goojara.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.33.208
+    - 172.67.166.160
+[79] Querying www.desikahani2.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.146
+    - 104.26.13.146
+    - 172.67.73.254
+[80] Querying www.desitales2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.212
+    - 104.26.15.212
+    - 172.67.71.84
+[81] Querying www.superporn.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.12
+    - 172.67.203.22
+[82] Querying www.threads.com for HTTPS record...
+  - No ipv4hint found
+[83] Querying xhamster1.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.167
+    - 172.67.158.52
+[84] Querying yzwtz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.38.34
+    - 172.64.149.222
+[85] Querying theqoo.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.26.183
+    - 104.18.27.183
+[86] Querying www.boyfriendtv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.47.172
+    - 172.66.149.175
+[87] Querying character.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.222.226
+    - 104.18.223.226
+[88] Querying dpboss.boston for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.107
+    - 104.18.13.107
+[89] Querying bookmark.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[90] Querying ge.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[91] Querying faphouse.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.5
+    - 172.67.128.116
+[92] Querying exhentai.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.202
+    - 172.67.187.219
+[93] Querying bato.si for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.232
+    - 172.67.220.15
+[94] Querying in.bookmyshow.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.185.195
+    - 104.17.186.195
+    - 104.17.187.195
+    - 104.17.188.195
+    - 104.17.189.195
+[95] Querying ita.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[96] Querying njavtv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.251
+    - 104.26.7.251
+    - 172.67.70.97
+[97] Querying satta-king-fast.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.149
+    - 172.67.163.101
+[98] Querying www.5movierulz.schule for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.18
+    - 172.67.167.141
+[99] Querying www.arbada.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.70
+    - 104.26.1.70
+    - 172.67.68.214
+[100] Querying www.dzexams.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.93
+    - 172.67.145.28
+
+Progress: 100 domains processed
+  - Domains with ipv4hint: 93
+  - Total IPs collected: 204
+
+[101] Querying www.hindibfvideo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.241
+    - 104.26.13.241
+    - 172.67.69.206
+[102] Querying vailonxx.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.40
+    - 172.67.142.167
+[103] Querying www.ancestry.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.182
+    - 172.64.148.74
+[104] Querying www.sondakika.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.43
+    - 172.66.156.50
+[105] Querying x.ijavhd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.32.95
+    - 172.66.167.231
+[106] Querying www.aznude.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.51.6
+    - 104.18.53.42
+[107] Querying www.mgeko.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.29.59
+    - 172.67.171.105
+[108] Querying adsmanager.facebook.com for HTTPS record...
+  - No ipv4hint found
+[109] Querying br.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[110] Querying fra.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[111] Querying fastdl.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.180
+    - 104.26.15.180
+    - 172.67.69.174
+[112] Querying a.asd.homes for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.159
+    - 172.67.137.206
+[113] Querying hitomi.la for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 198.251.80.166
+[114] Querying m.24xxxx.win for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.86
+    - 104.26.7.86
+    - 172.67.74.7
+[115] Querying nl.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[116] Querying spboss.mobi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.94
+    - 172.67.178.30
+[117] Querying www.5movierulz.hockey for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.39
+    - 172.67.208.187
+[118] Querying www.bhojpurisex.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.85
+    - 104.26.15.85
+    - 172.67.73.163
+[119] Querying wise.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.116
+    - 172.64.148.140
+[120] Querying www.betika.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.128.86
+    - 162.159.129.86
+[121] Querying www.haberler.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.47.197
+    - 172.66.144.22
+[122] Querying viralkand.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.30
+    - 104.26.5.30
+    - 172.67.74.163
+[123] Querying www.moviezwap.zip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.38.123
+    - 172.67.222.163
+[124] Querying xbato.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.48.28
+    - 172.67.176.36
+[125] Querying xnxx.health for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.91
+    - 104.26.11.91
+    - 172.67.74.112
+[126] Querying www.dagbladet.no for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.34.161
+    - 172.64.153.95
+[127] Querying skipthegames.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.34.147
+    - 172.66.150.122
+[128] Querying wwww.avsubthai.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.18
+    - 104.26.3.18
+    - 172.67.74.101
+[129] Querying ara.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[130] Querying arca.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.16.140
+    - 104.18.17.140
+[131] Querying battwo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.244
+    - 172.67.216.226
+[132] Querying discord.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.128.233
+    - 162.159.135.232
+    - 162.159.136.232
+    - 162.159.137.232
+    - 162.159.138.232
+[133] Querying fatalmodel.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.35.69
+    - 172.66.147.106
+[134] Querying blacktoon410.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.100
+    - 172.67.204.245
+[135] Querying momon-ga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.75
+    - 172.67.175.69
+[136] Querying missav123.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.189
+    - 104.26.13.189
+    - 172.67.71.238
+[137] Querying pornone.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.226
+    - 104.26.15.226
+    - 172.67.72.49
+[138] Querying new1.hdhub4u.fo for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.190
+    - 172.67.131.179
+[139] Querying produto.mercadolivre.com.br for HTTPS record...
+  - No ipv4hint found
+[140] Querying namu.wiki for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.218.109
+    - 104.16.219.109
+[141] Querying www.cdiscount.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.28.34
+    - 104.18.29.34
+[142] Querying www.google.com for HTTPS record...
+  - No ipv4hint found
+[143] Querying www.kamababa.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.135
+    - 104.26.1.135
+    - 172.67.70.253
+[144] Querying www.instagram.com for HTTPS record...
+  - No ipv4hint found
+[145] Querying www.rexporn.sex for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.49.130
+    - 172.67.163.47
+[146] Querying www.porn300.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.163
+    - 172.67.171.15
+[147] Querying www.tamilsexzone.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.183
+    - 104.26.5.183
+    - 172.67.75.35
+[148] Querying www.eporner.com for HTTPS record...
+  - No ipv4hint found
+[149] Querying www.tycsports.com for HTTPS record...
+  - No ipv4hint found
+[150] Querying yasyadong.app for HTTPS record...
+  - No HTTPS record
+
+Progress: 150 domains processed
+  - Domains with ipv4hint: 136
+  - Total IPs collected: 303
+
+[151] Querying sarkariresult.com.im for HTTPS record...
+  - No HTTPS record
+[152] Querying sarkariresult.com.cm for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.182
+    - 104.26.15.182
+    - 172.67.74.40
+[153] Querying darkero.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.21
+    - 172.67.174.168
+[154] Querying archiveofourown.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.8.2
+    - 104.20.9.2
+[155] Querying hi.xhamster.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.7
+    - 172.67.202.84
+[156] Querying ge.xhamster.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.7
+    - 172.67.202.84
+[157] Querying faphouse.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.19
+    - 172.64.151.237
+[158] Querying jp.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[159] Querying m.fanfiction.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.18.242
+    - 104.18.19.242
+[160] Querying missav.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.107
+    - 104.26.7.107
+    - 172.67.72.106
+[161] Querying moviesda15.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.153
+    - 172.67.168.100
+[162] Querying www.5movierulz.dental for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.16.244
+    - 172.67.217.25
+[163] Querying support.microsoft.com for HTTPS record...
+  - No ipv4hint found
+[164] Querying www.aftonbladet.se for HTTPS record...
+  - No ipv4hint found
+[165] Querying www.indiansexstories3.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.177
+    - 104.26.5.177
+    - 172.67.70.143
+[166] Querying www.betano.bet.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.200
+    - 172.64.148.56
+[167] Querying www.1mg.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.135.194
+    - 172.66.138.225
+[168] Querying www.imdb.com for HTTPS record...
+  - No ipv4hint found
+[169] Querying www.playtime.ph for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.85.47
+    - 104.16.86.47
+[170] Querying www.varzesh3.com for HTTPS record...
+  - No ipv4hint found
+[171] Querying xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[172] Querying www.mediafire.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.147.83
+    - 104.17.148.83
+[173] Querying ar.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[174] Querying en.luxuretv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.38.53
+    - 172.66.145.129
+[175] Querying hi.xhamster1.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.167
+    - 172.67.158.52
+[176] Querying hdhub4u.rehab for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.6
+    - 172.67.160.248
+[177] Querying auth.platorelay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.119
+    - 172.67.159.107
+[178] Querying ficbook.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.133.152
+    - 172.66.138.205
+[179] Querying isaidub.love for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.24.220
+    - 172.67.220.220
+[180] Querying apps.facebook.com for HTTPS record...
+  - No ipv4hint found
+[181] Querying janitorai.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.27
+    - 172.64.151.229
+[182] Querying m.happymh.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.49.138
+    - 104.18.53.169
+[183] Querying m.scan-manga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.139
+    - 104.26.3.139
+    - 172.67.71.37
+[184] Querying lolpol.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.229
+    - 172.67.216.132
+[185] Querying video.ijavhd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.32.95
+    - 172.66.167.231
+[186] Querying www.arabtnt.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.38.14
+    - 172.67.217.11
+[187] Querying tv7.lk21official.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.235
+    - 172.67.185.109
+[188] Querying www.filmyzilla28.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.118
+    - 172.67.176.125
+[189] Querying www.fanmtl.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.26
+    - 172.67.140.234
+[190] Querying www.mp4moviez.fail for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.86
+    - 172.67.135.233
+[191] Querying www.samsung.com for HTTPS record...
+  - No ipv4hint found
+[192] Querying www.shaalaa.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.31
+    - 104.26.13.31
+    - 172.67.75.172
+[193] Querying www.redwap.sex for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.52.19
+    - 172.67.194.74
+[194] Querying www.vg.no for HTTPS record...
+  - No ipv4hint found
+[195] Querying xnhau.hot for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.191
+    - 104.26.7.191
+    - 172.67.68.110
+[196] Querying www.tudogostoso.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.19.177.52
+    - 104.19.178.52
+[197] Querying xoso.com.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.243
+    - 104.18.25.243
+[198] Querying nnnkx2.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.29
+    - 172.67.150.161
+[199] Querying arabhubx.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.26
+    - 172.67.199.66
+[200] Querying filmyfly.how for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.173
+    - 172.67.195.111
+
+Progress: 200 domains processed
+  - Domains with ipv4hint: 178
+  - Total IPs collected: 393
+
+[201] Querying hdhub4u.gd for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.57.145
+    - 172.67.146.162
+[202] Querying exclusive-spin.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.65
+    - 172.67.176.14
+[203] Querying id.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[204] Querying fdown.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.202
+    - 104.26.7.202
+    - 172.67.70.216
+[205] Querying librefutboltv.su for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.218
+    - 172.67.201.68
+[206] Querying m.imdb.com for HTTPS record...
+  - No ipv4hint found
+[207] Querying m.facebook.com for HTTPS record...
+  - No ipv4hint found
+[208] Querying manhwaweb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.86
+    - 172.67.162.190
+[209] Querying missav.ws for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.31.186
+    - 172.66.167.65
+[210] Querying mlookalporno.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.150
+    - 104.26.7.150
+    - 172.67.73.17
+[211] Querying new.betway.co.za for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.43.32
+    - 172.64.144.224
+[212] Querying noodlemagazine.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.149.135.3
+[213] Querying pl.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[214] Querying www.5movierulz.reisen for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.38
+    - 172.67.180.67
+[215] Querying www.69shuba.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.157
+    - 104.26.7.157
+    - 172.67.73.119
+[216] Querying www.apornvideo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.144
+    - 172.67.170.119
+[217] Querying www.cardmarket.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.31
+    - 104.18.25.31
+[218] Querying www.facebook.com for HTTPS record...
+  - No ipv4hint found
+[219] Querying www.futbin.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.242.69
+    - 104.16.243.69
+    - 104.16.244.69
+    - 104.16.245.69
+    - 104.16.246.69
+[220] Querying www.serviporno.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.242
+    - 104.26.13.242
+    - 172.67.74.25
+[221] Querying www.desitelugusex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.24
+    - 172.67.151.224
+[222] Querying www.oolveri.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.2
+    - 104.26.11.2
+    - 172.67.70.180
+[223] Querying www.pravda.com.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.36.173
+    - 172.66.155.130
+[224] Querying www.twpornstars.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.145
+    - 172.67.164.25
+[225] Querying www.wow.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.23
+    - 172.67.174.30
+[226] Querying xhamster.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.7
+    - 172.67.202.84
+[227] Querying www.wnacg.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.44.182
+    - 172.66.175.138
+[228] Querying ukdevilz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.149.135.5
+[229] Querying 18comic.vip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.122
+    - 172.66.162.116
+[230] Querying aniwatchtv.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.54
+    - 172.67.178.130
+[231] Querying es.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[232] Querying pt.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[233] Querying pl.escort.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.190
+    - 172.67.145.159
+[234] Querying pixabay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.40.96
+    - 172.64.147.160
+[235] Querying sexhqxxx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[236] Querying spankbang.party for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.210
+    - 172.64.151.46
+[237] Querying snaptik.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.79
+    - 104.18.23.79
+[238] Querying tvwiki4.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.42
+    - 172.67.214.129
+[239] Querying web.facebook.com for HTTPS record...
+  - No ipv4hint found
+[240] Querying www.cardekho.com for HTTPS record...
+  - No ipv4hint found
+[241] Querying www.betway.co.za for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.43.32
+    - 172.64.144.224
+[242] Querying sxyprn.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.137
+    - 172.67.193.88
+[243] Querying www.freesexkahani.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.68
+    - 104.26.15.68
+    - 172.67.71.128
+[244] Querying www.yako03.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.125
+    - 172.67.151.43
+[245] Querying wwww.porn5xxx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.34.40
+    - 172.67.196.248
+[246] Querying 1goplus.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.131
+    - 104.18.5.131
+[247] Querying 100panel.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.55.9
+    - 172.67.170.9
+[248] Querying articulo.mercadolibre.com.ar for HTTPS record...
+  - No ipv4hint found
+[249] Querying 9animetv.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.186
+    - 172.67.180.216
+[250] Querying cryptoinsights.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.34.62
+    - 172.67.199.16
+
+Progress: 250 domains processed
+  - Domains with ipv4hint: 222
+  - Total IPs collected: 488
+
+[251] Querying ccc.eu for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.144.33
+    - 104.18.145.33
+[252] Querying darknaija.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.69
+    - 172.67.157.119
+[253] Querying bolly4u.menu for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.134
+    - 172.67.192.237
+[254] Querying fojik.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.81
+    - 172.67.170.106
+[255] Querying cartier.linkpenidabet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.44.66
+    - 172.67.196.114
+[256] Querying ge.movie for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.23
+    - 172.67.218.182
+[257] Querying dienynas.tamo.lt for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.26
+    - 104.26.7.26
+    - 172.67.73.49
+[258] Querying cz.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[259] Querying ganamosnet.io for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.49
+    - 172.67.161.178
+[260] Querying clients.cdiscount.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.28.34
+    - 104.18.29.34
+[261] Querying fr.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[262] Querying bandar-film.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.33.165
+    - 172.67.147.96
+[263] Querying checkout.spotpay.ph for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.234
+    - 172.67.164.205
+[264] Querying fry99.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.167
+    - 104.26.7.167
+    - 172.67.74.238
+[265] Querying hentaiera.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.3
+    - 172.67.141.16
+[266] Querying ioe.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.23.216
+    - 172.66.148.126
+[267] Querying hqporn.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.140
+    - 172.67.152.124
+[268] Querying hlebo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.126
+    - 172.67.207.238
+[269] Querying gekso.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.6
+    - 172.67.213.183
+[270] Querying lapalabradeldia.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.168
+    - 172.67.195.80
+[271] Querying indown.io for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.124
+    - 104.26.7.124
+    - 172.67.69.137
+[272] Querying ktby.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.55
+    - 172.67.173.74
+[273] Querying 3gpking.name for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.92
+    - 172.67.169.80
+[274] Querying fikfap.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.205
+    - 104.26.13.205
+    - 172.67.74.152
+[275] Querying coatingpro.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.30.82
+    - 172.67.172.131
+[276] Querying m.ziare.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.75.100
+    - 172.67.221.10
+[277] Querying m.cinemagia.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.21
+    - 104.26.9.21
+    - 172.67.72.58
+[278] Querying mydesi.sbs for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.129
+    - 172.67.143.93
+[279] Querying metruyencv.biz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.239
+    - 172.67.180.204
+[280] Querying mangafire.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.32
+    - 172.67.204.50
+[281] Querying pornparadox.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.246
+    - 172.67.195.35
+[282] Querying melb.website for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.199
+    - 172.67.183.80
+[283] Querying sarhne.sarahah.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.202
+    - 104.26.11.202
+    - 172.67.72.125
+[284] Querying redwap.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.87
+    - 172.67.190.177
+[285] Querying pusat-album.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.177
+    - 172.67.129.132
+[286] Querying pusat-hiburan.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.42
+    - 172.67.219.115
+[287] Querying pinayflix.cv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.57.64
+    - 172.67.189.95
+[288] Querying pinayot.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.138
+    - 172.67.134.72
+[289] Querying olxdir.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.185
+    - 172.67.138.89
+[290] Querying portal6.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.19
+    - 104.26.5.19
+    - 172.67.69.76
+[291] Querying simplyglitz.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.146
+    - 172.67.170.121
+[292] Querying rusoska.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.196
+    - 172.67.171.85
+[293] Querying qadcuteo.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.149
+    - 172.67.182.215
+[294] Querying pornbomb.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.0.130
+    - 172.67.150.249
+[295] Querying steadfast.com.bd for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.32
+    - 172.67.136.146
+[296] Querying steamdb.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.34.212
+    - 172.66.175.250
+[297] Querying slotscity.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.186
+    - 104.18.23.186
+[298] Querying tn.nova.cz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.37.191
+    - 172.64.150.65
+[299] Querying tamilbliss.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.55.86
+    - 172.67.146.91
+[300] Querying ua.korrespondent.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+
+Progress: 300 domains processed
+  - Domains with ipv4hint: 272
+  - Total IPs collected: 595
+
+[301] Querying vegamovies.ltda for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.47
+    - 104.26.13.47
+    - 172.67.74.127
+[302] Querying wto.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.7
+    - 104.26.7.7
+    - 172.67.68.83
+[303] Querying www.bikedekho.com for HTTPS record...
+  - No ipv4hint found
+[304] Querying www.football.com for HTTPS record...
+  - No ipv4hint found
+[305] Querying www.fattoincasadabenedetta.it for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.191
+    - 104.18.9.191
+[306] Querying www.24-hdmovie.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.89
+    - 104.26.3.89
+    - 172.67.75.81
+[307] Querying www.jun88nn5.top for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.40.234
+    - 172.64.147.22
+[308] Querying www.laprovence.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.16.199
+    - 172.66.144.144
+[309] Querying www.lottopcso.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[310] Querying www.findagrave.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.33.242
+    - 172.64.154.14
+[311] Querying www.foreca.fi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.16.221
+    - 172.66.153.46
+[312] Querying www.manhwaweb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.86
+    - 172.67.162.190
+[313] Querying www.mangaread.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.191
+    - 104.26.15.191
+    - 172.67.69.123
+[314] Querying www.meteored.cl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.255.116
+    - 198.41.209.116
+[315] Querying www.metal-archives.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.169
+    - 172.67.146.200
+[316] Querying www.royalblueheating.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.208
+    - 172.67.148.112
+[317] Querying www.moviesda.care for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.238
+    - 172.67.191.181
+[318] Querying www.noor-book.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.40.225
+    - 172.66.43.31
+[319] Querying tyler-brown.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.149.135.6
+[320] Querying www.rte.ie for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.124.28
+    - 104.18.125.28
+[321] Querying www.sportskeeda.com for HTTPS record...
+  - No ipv4hint found
+[322] Querying www.steadfast.com.bd for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.32
+    - 172.67.136.146
+[323] Querying www.themoviedb.org for HTTPS record...
+  - No ipv4hint found
+[324] Querying www.prajavani.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.90.198
+    - 104.18.91.198
+    - 104.18.92.198
+    - 104.18.93.198
+    - 104.18.94.198
+[325] Querying www.truecaller.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.130
+    - 104.26.9.130
+    - 172.67.70.116
+[326] Querying www.saksfifthavenue.com for HTTPS record...
+  - No ipv4hint found
+[327] Querying www.wuxiabox.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.78.25
+    - 172.67.215.27
+[328] Querying x.rusoska2.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.141
+    - 172.67.185.14
+[329] Querying www.verywellhealth.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[330] Querying xn--42c5ab1a9aq9hqb5dud.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.26
+    - 172.67.182.86
+[331] Querying xn--2-wxfs4ab4gvepc.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.183
+    - 172.67.147.21
+[332] Querying www.toongod.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.74
+    - 104.26.7.74
+    - 172.67.70.190
+[333] Querying www.vidmateapp.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.30.72
+    - 104.18.31.72
+[334] Querying zh.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[335] Querying www.xnung.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.94
+    - 172.67.180.142
+[336] Querying www.tiempo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.245.103
+    - 104.16.246.103
+[337] Querying yaoiscan.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.188
+    - 104.26.15.188
+    - 172.67.74.27
+[338] Querying rou.video for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.91.24
+    - 172.67.208.217
+[339] Querying xgroovy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.197
+    - 172.67.171.8
+[340] Querying webresult.nustargame.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.41.51
+    - 104.16.42.51
+[341] Querying www.crossthegame.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.43.236
+    - 172.67.188.126
+[342] Querying earnbitmoon.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.122
+    - 104.26.13.122
+    - 172.67.72.62
+[343] Querying 4kwallpapers.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.52
+    - 104.26.7.52
+    - 172.67.69.36
+[344] Querying filmyfiy.mov for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.205
+    - 172.67.187.119
+[345] Querying bollyflix.miami for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[346] Querying doublelist.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.26.111
+    - 104.18.27.111
+[347] Querying ad.ymcdn.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.38.115
+    - 172.67.222.71
+[348] Querying forum.gamer.com.tw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.197
+    - 104.18.3.197
+[349] Querying desifile.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.209
+    - 172.67.213.115
+[350] Querying fapclub.vip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.121
+    - 172.67.144.193
+
+Progress: 350 domains processed
+  - Domains with ipv4hint: 317
+  - Total IPs collected: 696
+
+[351] Querying betnacional.bet.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.33.238
+    - 172.64.154.18
+[352] Querying dti-dresstoimpress.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 45.194.53.26
+    - 45.194.53.52
+[353] Querying kaliscan.io for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[354] Querying id.savefrom.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.20.139
+    - 172.66.159.118
+[355] Querying idolfap.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.4
+    - 172.67.174.66
+[356] Querying hentaila.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.63
+    - 172.67.190.236
+[357] Querying goctruyentranhvui17.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.133
+    - 172.67.160.13
+[358] Querying hotdesifuck.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[359] Querying javgg.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.238
+    - 104.26.1.238
+    - 172.67.70.148
+[360] Querying javsek.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.52
+    - 172.67.130.66
+[361] Querying kolkataff.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.41
+    - 172.67.219.114
+[362] Querying en.xnxx.place for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.164
+    - 172.67.189.246
+[363] Querying kurier.at for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.76.40
+    - 104.18.77.40
+[364] Querying energy-ua.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.216
+    - 104.26.9.216
+    - 172.67.72.22
+[365] Querying hitmaal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.13.234
+    - 172.67.133.108
+[366] Querying igram.world for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.58
+    - 104.26.3.58
+    - 172.67.73.161
+[367] Querying ak.shaugacakro.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.59
+    - 172.64.146.197
+[368] Querying ketqua04.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.26
+    - 172.67.170.51
+[369] Querying kezi10.pipo.games for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.58
+    - 172.67.174.182
+[370] Querying lihat-disini.fun for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.117
+    - 172.67.134.51
+[371] Querying kinogo.bike for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.8.79
+    - 172.67.130.95
+[372] Querying liveball.sx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.111
+    - 104.26.1.111
+    - 172.67.68.216
+[373] Querying kingofshojo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.156
+    - 172.67.186.170
+[374] Querying manhuatop.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.74
+    - 104.26.9.74
+    - 172.67.75.242
+[375] Querying my.clevelandclinic.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.216
+    - 172.64.155.40
+[376] Querying onedio.com for HTTPS record...
+  - No ipv4hint found
+[377] Querying oceanofpdf.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.50
+    - 104.26.13.50
+    - 172.67.73.8
+[378] Querying pba.bplay.bet.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.40.242
+    - 172.66.43.14
+[379] Querying playerok.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.19.254.64
+    - 104.19.255.64
+[380] Querying places.mercadolivre.com.br for HTTPS record...
+  - No ipv4hint found
+[381] Querying preply.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.20.180
+    - 104.18.21.180
+[382] Querying ridibooks.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.219.15
+    - 104.18.81.2
+[383] Querying poe.ninja for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.132
+    - 104.26.9.132
+    - 172.67.73.129
+[384] Querying quran.nu.or.id for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.232
+    - 104.26.7.232
+    - 172.67.70.102
+[385] Querying rule34.us for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.223
+    - 172.67.194.181
+[386] Querying rule34.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.199
+    - 172.67.153.56
+[387] Querying storiesig.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.208
+    - 104.26.13.208
+    - 172.67.74.29
+[388] Querying weebcentral.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.126
+    - 172.67.151.248
+[389] Querying spicychat.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.37
+    - 104.26.1.37
+    - 172.67.72.56
+[390] Querying tubepussy.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.34.19
+    - 172.67.153.53
+[391] Querying www.apkmirror.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.65.215
+    - 104.17.66.215
+    - 104.17.67.215
+    - 104.17.68.215
+    - 104.17.69.215
+[392] Querying tiktokio.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[393] Querying vip.oiytrexz.hair for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.141
+    - 172.67.162.128
+[394] Querying thuvienphapluat.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.168
+    - 104.26.13.168
+    - 172.67.75.105
+[395] Querying www.diziizle.tel for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.44.89
+    - 172.67.198.57
+[396] Querying www.express.co.uk for HTTPS record...
+  - No ipv4hint found
+[397] Querying riyasewana.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.36
+    - 104.26.15.36
+    - 172.67.74.61
+[398] Querying sixd.6dngine.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.82.27
+    - 172.67.151.115
+[399] Querying www.donedeal.ie for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.25.210
+    - 172.66.168.174
+[400] Querying www.drxsw.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.14.220
+    - 172.67.160.157
+
+Progress: 400 domains processed
+  - Domains with ipv4hint: 364
+  - Total IPs collected: 805
+
+[401] Querying www.91mobiles.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.16.175
+    - 104.18.17.175
+[402] Querying www.betpawa.co.zm for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.13.179
+    - 172.67.132.233
+[403] Querying www.betpawa.mw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 31.185.108.17
+    - 31.185.108.233
+[404] Querying www.coingecko.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.118
+    - 104.18.5.118
+[405] Querying www.happymod.cloud for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.137
+    - 172.67.135.247
+[406] Querying www.amateri.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.51
+    - 104.26.15.51
+    - 172.67.73.180
+[407] Querying tv2.nontondrama.my for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.119
+    - 172.67.183.181
+[408] Querying www.jetpunk.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.175
+    - 104.26.3.175
+    - 172.67.68.189
+[409] Querying www.lespompeurs.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.22.186
+    - 172.66.168.73
+[410] Querying www.lifo.gr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.220
+    - 104.26.9.220
+    - 172.67.73.154
+[411] Querying www.blockaway.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.40.78
+    - 172.67.181.119
+[412] Querying www.laredoute.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.43.110
+    - 172.64.144.146
+[413] Querying www.mercadopago.com.br for HTTPS record...
+  - No ipv4hint found
+[414] Querying www.news24.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.250.6
+    - 104.17.251.6
+[415] Querying www.frandroid.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.25.187.67
+    - 104.25.188.67
+    - 172.67.82.116
+[416] Querying www.lego.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.208
+    - 104.18.9.208
+[417] Querying www.moviesda.show for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.211
+    - 172.67.164.134
+[418] Querying www.javxxx.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.57.130
+    - 172.67.163.221
+[419] Querying www.flightaware.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.37.179
+    - 172.64.150.77
+[420] Querying www.pracuj.pl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.6.70
+    - 104.18.7.70
+[421] Querying www.redwap.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.53
+    - 172.67.210.76
+[422] Querying www.truper.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.22.110
+    - 172.66.160.204
+[423] Querying www.storm.mg for HTTPS record...
+  - No ipv4hint found
+[424] Querying www.willhaben.at for HTTPS record...
+  - No ipv4hint found
+[425] Querying www.zona-militar.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.132
+    - 172.67.136.72
+[426] Querying www.wajibati.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.210
+    - 104.26.5.210
+    - 172.67.71.246
+[427] Querying www.yalashoot.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.158
+    - 172.67.178.99
+[428] Querying x.fap-guru.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.111
+    - 172.67.157.118
+[429] Querying xalabahia.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.73
+    - 172.67.168.18
+[430] Querying xxxvideo.link for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[431] Querying xxvideos.video for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.196
+    - 172.67.131.5
+[432] Querying ydtour23.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.4.104
+    - 172.67.131.251
+[433] Querying yts.lt for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.124
+    - 104.26.3.124
+    - 172.67.72.98
+[434] Querying xossipy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.48
+    - 172.67.204.89
+[435] Querying www.up-manga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.32
+    - 104.26.7.32
+    - 172.67.73.185
+[436] Querying xn--l3cb1eaaa2dkbbb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.14.163
+    - 172.67.160.10
+[437] Querying www.xnxx-livecams.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.207.112
+    - 104.18.208.112
+[438] Querying www3.24-jav.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.161
+    - 104.26.5.161
+    - 172.67.74.107
+[439] Querying yanhh3d.vip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.143
+    - 104.26.1.143
+    - 172.67.72.92
+[440] Querying theporndude.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.39.187
+    - 172.66.153.107
+[441] Querying www.danas.rs for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.118
+    - 104.26.11.118
+    - 172.67.71.27
+[442] Querying w0w.ukdevilz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.149.135.5
+[443] Querying 99exch.com for HTTPS record...
+  - No ipv4hint found
+[444] Querying 5play.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.70
+    - 104.26.9.70
+    - 172.67.71.144
+[445] Querying azeriseks.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.98
+    - 104.26.9.98
+    - 172.67.69.57
+[446] Querying crushon.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.191
+    - 104.18.5.191
+[447] Querying fr.eporner.com for HTTPS record...
+  - No ipv4hint found
+[448] Querying gece.az for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.41
+    - 172.67.159.249
+[449] Querying freewebnovel.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.249
+    - 104.26.11.249
+    - 172.67.71.48
+[450] Querying forums.spacebattles.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.98
+    - 104.26.7.98
+    - 172.67.72.24
+
+Progress: 450 domains processed
+  - Domains with ipv4hint: 409
+  - Total IPs collected: 908
+
+[451] Querying fuckmoral.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[452] Querying betswiz.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.4.141
+    - 172.67.154.31
+[453] Querying beeg.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.86
+    - 172.67.181.179
+[454] Querying jjgirls.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.91
+    - 172.67.212.170
+[455] Querying eboblack.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.4
+    - 172.67.175.30
+[456] Querying gemidos.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.153
+    - 104.26.15.153
+    - 172.67.75.247
+[457] Querying hanime.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[458] Querying ddd-smart.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.21.165
+    - 172.67.199.159
+[459] Querying anime3rb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.209
+    - 104.26.11.209
+    - 172.67.74.129
+[460] Querying javhd.today for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.253
+    - 172.67.138.128
+[461] Querying jav.guru for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.14
+    - 104.26.5.14
+    - 172.67.75.11
+[462] Querying jang.com.pk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.16.38
+    - 104.18.86.101
+[463] Querying epaper.lokmat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.151
+    - 104.26.1.151
+    - 172.67.69.61
+[464] Querying conduit.psiphon.ca for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.196
+    - 104.18.15.196
+[465] Querying kisskh.ws for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.129
+    - 172.67.176.136
+[466] Querying kuttymovies.hot for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[467] Querying lmarena.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.20.173
+    - 104.18.21.173
+[468] Querying m.888bets.co.mz for HTTPS record...
+  - No ipv4hint found
+[469] Querying maynoe.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.8.173
+    - 172.67.157.201
+[470] Querying manhuaus.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.101
+    - 172.67.213.34
+[471] Querying mcwthomo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.155
+    - 172.67.186.204
+[472] Querying mx.mileroticos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.29.46
+    - 172.66.158.219
+[473] Querying mx.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[474] Querying meat.bluesystem.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.44.7
+    - 172.67.192.142
+[475] Querying look.twword.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.176
+    - 172.67.129.172
+[476] Querying manwa.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.139
+    - 172.67.200.254
+[477] Querying myiq.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.36.177
+    - 172.66.144.213
+[478] Querying naasongs.com.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[479] Querying redhandstube.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.110
+    - 172.67.212.56
+[480] Querying search.go-search.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.246
+    - 172.67.207.243
+[481] Querying rumah-film.online for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[482] Querying gaigu2.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.31
+    - 104.26.11.31
+    - 172.67.75.28
+[483] Querying redporn.porn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.68
+    - 172.67.169.8
+[484] Querying slobodnadalmacija.hr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.19.215.82
+    - 104.19.216.82
+[485] Querying uakino.best for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.190
+    - 104.26.3.190
+    - 172.67.74.191
+[486] Querying sflix.ps for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.141
+    - 172.67.185.14
+[487] Querying www.5movierulz.condos for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.70
+    - 172.67.184.68
+[488] Querying www.av-th.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.56
+    - 104.26.5.56
+    - 172.67.75.227
+[489] Querying www.albumaty.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.43.196
+    - 172.67.184.172
+[490] Querying tkor077.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.85.67
+    - 172.67.203.26
+[491] Querying speedostream1.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.90
+    - 172.67.143.11
+[492] Querying www.abola.pt for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.146
+    - 104.18.25.146
+[493] Querying vegamovies.house for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.140
+    - 104.26.1.140
+    - 172.67.72.212
+[494] Querying tubidy.cv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.31
+    - 104.26.11.31
+    - 172.67.75.28
+[495] Querying www.allrecipes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[496] Querying www.atv.com.tr for HTTPS record...
+  - No ipv4hint found
+[497] Querying tr.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[498] Querying www.cartacapital.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.183
+    - 104.26.9.183
+    - 172.67.72.223
+[499] Querying www.indianbfvideos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.10
+    - 104.26.3.10
+    - 172.67.73.209
+[500] Querying www.1tamilmv.kiwi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.78.6
+    - 172.67.214.68
+
+Progress: 500 domains processed
+  - Domains with ipv4hint: 457
+  - Total IPs collected: 1015
+
+[501] Querying www.glassdoor.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.25.46
+    - 104.17.64.70
+[502] Querying trendybeatz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.6.160
+    - 172.67.135.3
+[503] Querying www.iwara.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.28.232
+    - 172.66.170.170
+[504] Querying www.4dmoon.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.197
+    - 172.67.218.128
+[505] Querying www.fanfiction.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.18.242
+    - 104.18.19.242
+[506] Querying www.inxxx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.191
+    - 104.26.1.191
+    - 172.67.73.133
+[507] Querying www.la.lv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.189
+    - 172.67.145.158
+[508] Querying www.nsctotal.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.24.4
+    - 172.66.170.19
+[509] Querying ww2.mangafreak.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.85.131
+    - 172.67.206.46
+[510] Querying www.doordash.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.225
+    - 172.64.151.31
+[511] Querying www.mobiledokan.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.122
+    - 104.26.5.122
+    - 172.67.74.223
+[512] Querying www.picard.fr for HTTPS record...
+  - No ipv4hint found
+[513] Querying www.meteored.com.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.171.99
+    - 104.18.126.100
+[514] Querying www.royalroad.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.118
+    - 104.26.15.118
+    - 172.67.73.137
+[515] Querying www.mydesi2.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.247
+    - 104.26.3.247
+    - 172.67.70.250
+[516] Querying www.ruten.com.tw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.10.27
+    - 104.18.11.27
+[517] Querying www.pornoxo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.17
+    - 172.67.182.69
+[518] Querying www.njav.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.21.74
+    - 172.67.197.4
+[519] Querying www.simplyrecipes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[520] Querying www.pornocarioca.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.37
+    - 104.26.13.37
+    - 172.67.71.99
+[521] Querying www.pornogratisdiario.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.73
+    - 104.26.1.73
+    - 172.67.73.121
+[522] Querying www.meta.com for HTTPS record...
+  - No ipv4hint found
+[523] Querying www.savana.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.25
+    - 104.18.9.25
+[524] Querying www.marinetraffic.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.70
+    - 104.18.9.70
+[525] Querying www.rolimons.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.58
+    - 104.26.9.58
+    - 172.67.74.181
+[526] Querying www.shakeiteasy.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.118
+    - 172.67.180.132
+[527] Querying www.receiteria.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.37
+    - 104.26.5.37
+    - 172.67.74.59
+[528] Querying www.resetera.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.130
+    - 104.26.1.130
+    - 172.67.70.132
+[529] Querying www.zonaprop.com.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.49.116
+    - 104.16.50.116
+[530] Querying www.upwork.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.89.237
+    - 104.18.90.237
+[531] Querying xnxxarab.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.225
+    - 172.67.164.13
+[532] Querying xn--72ca1b0f3bvd2c.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.75.50
+    - 172.67.213.198
+[533] Querying www.therange.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.208.129
+    - 104.17.255.248
+[534] Querying sudoku.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.167
+    - 172.64.155.89
+[535] Querying www.minecraftskins.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.4
+    - 104.18.25.4
+[536] Querying 1337x.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.40.193
+    - 172.67.188.67
+[537] Querying 1go.plus for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.110
+    - 104.18.25.110
+[538] Querying alerts.in.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.39.143
+    - 172.66.159.62
+[539] Querying avmisohd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.4.213
+    - 172.67.132.129
+[540] Querying anysex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.50.99
+    - 172.67.204.28
+[541] Querying b.2ch2.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.112
+    - 104.26.15.112
+    - 172.67.72.17
+[542] Querying br.spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[543] Querying cults3d.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.215
+    - 104.26.13.215
+    - 172.67.75.246
+[544] Querying djpunjab.is for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.136
+    - 172.67.145.15
+[545] Querying comicbook.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.75.24
+    - 172.67.210.64
+[546] Querying fojik.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.181
+    - 172.67.203.207
+[547] Querying br.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[548] Querying cheaphotelexpert.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.149
+    - 172.67.186.235
+[549] Querying copilot.microsoft.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.222
+    - 104.18.23.222
+[550] Querying f95zone.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.96
+    - 172.67.158.111
+
+Progress: 550 domains processed
+  - Domains with ipv4hint: 505
+  - Total IPs collected: 1122
+
+[551] Querying betking.com.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.220
+    - 172.64.146.36
+[552] Querying freeip.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.251
+    - 172.67.196.78
+[553] Querying dualeotruyenvx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.132
+    - 172.67.160.12
+[554] Querying doodss.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.72
+    - 172.67.169.11
+[555] Querying kaldagan.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.165
+    - 104.26.15.165
+    - 172.67.72.182
+[556] Querying doramy.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.130
+    - 172.67.162.234
+[557] Querying dorama.land for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.12
+    - 172.67.218.53
+[558] Querying evexxx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.72
+    - 172.67.128.224
+[559] Querying babu88.gold for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.40.74
+    - 172.67.181.55
+[560] Querying id.javtiful.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.154
+    - 172.67.178.57
+[561] Querying aniagotuje.pl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.162
+    - 104.26.13.162
+    - 172.67.75.58
+[562] Querying javmix.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.40.40
+    - 172.67.175.47
+[563] Querying de.xgroovy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[564] Querying insta-stories-viewer.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.47.16
+    - 172.67.143.196
+[565] Querying in.investing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.151
+    - 172.64.155.105
+[566] Querying koselarab.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.41
+    - 104.26.1.41
+    - 172.67.68.219
+[567] Querying it.eporner.com for HTTPS record...
+  - No ipv4hint found
+[568] Querying lc4.cosmicscans.asia for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.22
+    - 172.67.139.191
+[569] Querying lotterysambad.one for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.54.87
+    - 172.67.137.78
+[570] Querying hbet.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.90
+    - 172.67.169.48
+[571] Querying link.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.166
+    - 104.18.5.166
+[572] Querying kinogo.media for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.180
+    - 172.67.210.237
+[573] Querying m.gamer.com.tw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.197
+    - 104.18.3.197
+[574] Querying man88.vip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.218
+    - 172.67.129.186
+[575] Querying m.21cineplex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.27.14
+    - 172.66.160.63
+[576] Querying massagerepublic.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.40.139
+    - 172.66.43.117
+[577] Querying ms3.badak178regist.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 45.194.53.26
+    - 45.194.53.52
+[578] Querying oasiszen.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.158
+    - 172.67.137.205
+[579] Querying neal.fun for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.32.222
+    - 172.66.162.110
+[580] Querying naijared.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.63
+    - 172.67.188.229
+[581] Querying qu-ax.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.44.55
+    - 172.67.195.218
+[582] Querying redbus1.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[583] Querying my99exch.black for HTTPS record...
+  - No ipv4hint found
+[584] Querying sa.investing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.151
+    - 172.64.155.105
+[585] Querying psiphon.news for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.47
+    - 104.18.23.47
+[586] Querying pusat-nonton.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.97
+    - 172.67.206.249
+[587] Querying lootedpinay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.91
+    - 172.67.183.184
+[588] Querying quickstream-app.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.232
+    - 172.67.195.223
+[589] Querying sgxnifty.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 188.114.96.12
+    - 188.114.97.12
+[590] Querying surahquran.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.49.162
+    - 172.67.164.246
+[591] Querying steamrip.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.12
+    - 104.26.3.12
+    - 172.67.70.25
+[592] Querying ssstwitter.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.149
+    - 104.26.5.149
+    - 172.67.74.16
+[593] Querying stirileprotv.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.31
+    - 104.18.3.31
+[594] Querying shillongteerground.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.120
+    - 172.67.134.54
+[595] Querying snapsave.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.0.95
+    - 104.18.1.95
+[596] Querying uafix.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.138
+    - 172.67.129.71
+[597] Querying web.umang.gov.in for HTTPS record...
+  - No ipv4hint found
+[598] Querying www.agrarheute.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 116.202.228.219
+[599] Querying uukanshu.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.22
+    - 104.26.13.22
+    - 172.67.71.86
+[600] Querying tuftedinteriors.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.48.56
+    - 172.67.178.208
+
+Progress: 600 domains processed
+  - Domains with ipv4hint: 552
+  - Total IPs collected: 1221
+
+[601] Querying truyenfull.vision for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.5.62
+    - 172.67.133.9
+[602] Querying www.catawiki.com for HTTPS record...
+  - No ipv4hint found
+[603] Querying www.arabxn.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.209
+    - 172.67.146.113
+[604] Querying www.aoxx69.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.78.61
+    - 172.67.217.58
+[605] Querying vn2.xvideos69.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.34
+    - 172.67.204.2
+[606] Querying www.babepedia.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.218
+    - 104.26.15.218
+    - 172.67.73.31
+[607] Querying www.eltiempo.com for HTTPS record...
+  - No ipv4hint found
+[608] Querying vidoy.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.91.119
+    - 172.67.218.50
+[609] Querying www.gunbroker.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.35.222
+    - 172.64.152.34
+[610] Querying www.fullmatch-hd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.133
+    - 172.67.180.160
+[611] Querying www.fulldesisex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.9
+    - 172.67.139.32
+[612] Querying www.heavy-r.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.85
+    - 104.26.3.85
+    - 172.67.71.160
+[613] Querying www.gays-cruising.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.66
+    - 104.26.11.66
+    - 172.67.68.39
+[614] Querying sxyprn.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.22
+    - 172.67.142.56
+[615] Querying www.elmaz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.12
+    - 172.67.207.114
+[616] Querying padlet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.42.238
+    - 172.64.145.18
+[617] Querying www.jun8892.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.224
+    - 172.67.156.35
+[618] Querying www.itemku.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.36.196
+    - 172.66.144.245
+[619] Querying www.mangago.zone for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.185
+    - 172.67.206.197
+[620] Querying www.keralalotterytoday.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.121
+    - 172.67.180.14
+[621] Querying www.onlinekhabar.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.146
+    - 104.26.5.146
+    - 172.67.71.14
+[622] Querying www.krikya11.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.10.181
+    - 104.18.11.181
+[623] Querying www.myinstants.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.95
+    - 104.26.5.95
+    - 172.67.70.41
+[624] Querying www.rbc.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.26.33
+    - 172.66.156.158
+[625] Querying www.mercadolibre.com.co for HTTPS record...
+  - No ipv4hint found
+[626] Querying www.orizzontescuola.it for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.42
+    - 104.26.7.42
+    - 172.67.68.48
+[627] Querying www.kingmods.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.52.211
+    - 172.67.204.24
+[628] Querying www.romsgames.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.141
+    - 172.67.129.105
+[629] Querying www.ntvspor.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.46.89
+    - 172.66.144.59
+[630] Querying enter-name.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.22.111
+    - 172.67.204.140
+[631] Querying www.showcamrips.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.161
+    - 172.67.147.38
+[632] Querying www.redbubble.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.40.219
+    - 172.64.147.37
+[633] Querying www.notion.so for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 208.103.161.1
+    - 208.103.161.2
+[634] Querying www.tokyvideo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.66
+    - 172.67.153.119
+[635] Querying www.sex6x.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.175
+    - 104.26.7.175
+    - 172.67.69.104
+[636] Querying www.stiripesurse.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.16.36
+    - 172.66.152.22
+[637] Querying www.thingiverse.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.19.147.91
+    - 104.19.148.91
+[638] Querying www.tnh1.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.159
+    - 104.26.3.159
+    - 172.67.71.209
+[639] Querying www.stoiximan.gr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.35.171
+    - 172.64.152.85
+[640] Querying www.xxbrits.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.44.154
+    - 172.67.200.233
+[641] Querying x-video.tube for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.237
+    - 172.67.152.198
+[642] Querying www.work.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.30.81
+    - 172.66.165.217
+[643] Querying www.vidmate-official.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.191
+    - 104.18.25.191
+[644] Querying www.tujugada.com.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.15
+    - 104.26.9.15
+    - 172.67.69.131
+[645] Querying www.skai.gr for HTTPS record...
+  - No ipv4hint found
+[646] Querying www.deepl.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.209
+    - 172.64.148.47
+[647] Querying www.fragrancenet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.223.195
+    - 104.18.176.199
+[648] Querying 3xyaoi.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.242
+    - 104.26.5.242
+    - 172.67.70.152
+[649] Querying aggbrct0m.zani64.com for HTTPS record...
+  - No ipv4hint found
+[650] Querying ar.stripchat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.117.12
+    - 104.17.118.12
+
+Progress: 650 domains processed
+  - Domains with ipv4hint: 597
+  - Total IPs collected: 1321
+
+[651] Querying allporncomic.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.71
+    - 104.26.5.71
+    - 172.67.69.85
+[652] Querying articulo.mercadolibre.com.mx for HTTPS record...
+  - No ipv4hint found
+[653] Querying arabxn.sex for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.24.232
+    - 172.67.221.3
+[654] Querying anybunny.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.61.221
+    - 172.67.215.192
+[655] Querying arbpay.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.148
+    - 104.18.5.148
+[656] Querying azureserv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.50
+    - 172.67.161.179
+[657] Querying can.az for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.194
+    - 172.67.214.47
+[658] Querying azoramoon.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.81.227
+    - 172.67.165.103
+[659] Querying aseensis.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.50.13
+    - 172.67.199.3
+[660] Querying filmyzilla28.net.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.43.179
+    - 172.67.182.168
+[661] Querying codeforces.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.164
+    - 104.26.7.164
+    - 172.67.68.254
+[662] Querying djatoya.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.5.188
+    - 172.67.154.169
+[663] Querying forocoches.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.38.64
+    - 172.66.170.122
+[664] Querying desiremovies.earth for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.26
+    - 172.67.170.51
+[665] Querying fairyanime.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.122
+    - 104.26.13.122
+    - 172.67.72.62
+[666] Querying hubcloud.foo for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.61.39
+    - 172.67.205.202
+[667] Querying homo.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.61.18
+    - 172.67.204.226
+[668] Querying freefunz.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.33.169
+    - 172.67.165.10
+[669] Querying cdn.gamifyspace.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.110
+    - 104.18.25.110
+[670] Querying jp.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[671] Querying gold365.blue for HTTPS record...
+  - No ipv4hint found
+[672] Querying ecuabet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.166
+    - 104.18.23.166
+[673] Querying anichin.cafe for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.116
+    - 172.67.145.115
+[674] Querying anilife.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.81.57
+    - 172.67.157.42
+[675] Querying kisskh.do for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.144
+    - 172.67.170.119
+[676] Querying in.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[677] Querying fortnitetracker.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.103
+    - 104.26.11.103
+    - 172.67.70.106
+[678] Querying krx18.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.103
+    - 172.67.145.214
+[679] Querying loadedfiles.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.207
+    - 172.67.213.24
+[680] Querying m.fanfox.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.48.63
+    - 172.67.179.214
+[681] Querying majhinaukri.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.19
+    - 104.26.9.19
+    - 172.67.69.218
+[682] Querying m.ome.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.42.213
+    - 172.64.145.43
+[683] Querying manhwaread.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.181
+    - 172.67.147.16
+[684] Querying look.thisiscm.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.188
+    - 172.67.147.79
+[685] Querying ok.porn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.191
+    - 172.67.165.112
+[686] Querying myhentaigallery.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.17.45
+    - 172.66.166.101
+[687] Querying myflixerz.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.91.218
+    - 172.67.180.197
+[688] Querying onlybokep.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.83
+    - 172.67.189.106
+[689] Querying musicaldown.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.13
+    - 172.67.202.103
+[690] Querying nuvola.madisoft.it for HTTPS record...
+  - No ipv4hint found
+[691] Querying monsnode.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.68
+    - 172.67.193.186
+[692] Querying movies4u.nexus for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.55.67
+    - 172.67.170.156
+[693] Querying movil.todorelatos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.25.219.103
+    - 104.25.220.103
+[694] Querying revistaoeste.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.199
+    - 104.26.3.199
+    - 172.67.75.15
+[695] Querying pt.eporner.com for HTTPS record...
+  - No ipv4hint found
+[696] Querying rutracker.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.39
+    - 172.67.182.196
+[697] Querying gaigu1.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.33
+    - 104.26.13.33
+    - 172.67.74.193
+[698] Querying pusat-streaming.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.17.36
+    - 172.67.220.131
+[699] Querying pagalnew.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.202
+    - 172.67.183.84
+[700] Querying showup.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.70
+    - 104.18.13.70
+
+Progress: 700 domains processed
+  - Domains with ipv4hint: 643
+  - Total IPs collected: 1420
+
+[701] Querying sattamatkajico.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.85
+    - 172.67.221.74
+[702] Querying shop.coinmaster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.43.103
+    - 172.64.144.153
+[703] Querying sexkomix2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.138
+    - 104.26.1.138
+    - 172.67.73.48
+[704] Querying skymovieshd.mba for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.243
+    - 172.67.138.46
+[705] Querying rogmovies.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.40
+    - 172.67.140.28
+[706] Querying telemagazyn.pl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.16.141
+    - 104.18.17.141
+[707] Querying thothd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.197
+    - 104.26.7.197
+    - 172.67.73.193
+[708] Querying ua.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[709] Querying w2a.shorttv.live for HTTPS record...
+  - No ipv4hint found
+[710] Querying sweetindianporn.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.232
+    - 172.67.155.171
+[711] Querying tkor083.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.172
+    - 172.67.138.7
+[712] Querying tkor081.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.194
+    - 172.67.166.212
+[713] Querying www.ahindian.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.88
+    - 172.67.135.203
+[714] Querying webdramaturkey2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.82.245
+    - 172.67.166.52
+[715] Querying www.aflamk1.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.71.150
+    - 172.67.170.182
+[716] Querying www.allpanelexch.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.34.21
+    - 172.64.153.235
+[717] Querying videy-stream.online for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.245
+    - 172.67.167.209
+[718] Querying viet69.ge for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.159
+    - 172.67.182.129
+[719] Querying www.betano.bet.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.40.203
+    - 172.64.147.53
+[720] Querying www.1tamilmv.pink for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.244
+    - 172.67.143.173
+[721] Querying www.fullhdfilmizlesene.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.172.102
+    - 172.66.175.254
+[722] Querying www.electrodepot.fr for HTTPS record...
+  - No ipv4hint found
+[723] Querying www.google.co.jp for HTTPS record...
+  - No ipv4hint found
+[724] Querying www.evvelcevap.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.151
+    - 172.67.194.47
+[725] Querying www.itemsatis.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.213
+    - 104.26.7.213
+    - 172.67.69.64
+[726] Querying www.hasznaltauto.hu for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.235
+    - 104.18.15.235
+[727] Querying www.hdfilmizle.life for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.201
+    - 104.26.15.201
+    - 172.67.74.66
+[728] Querying www.hdfilmcehennemi.page for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.71.213
+    - 172.67.171.190
+[729] Querying musics-mehr.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.68.152
+    - 172.67.196.163
+[730] Querying www.mangabats.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.81
+    - 172.67.177.138
+[731] Querying www.jogemoa02.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.82.172
+    - 172.67.160.61
+[732] Querying www.mumsnet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.121
+    - 172.66.162.115
+[733] Querying www.milfat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.31
+    - 172.67.203.109
+[734] Querying www.kosmo.com.my for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.183
+    - 104.26.1.183
+    - 172.67.69.72
+[735] Querying www.pornorama.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.154.115
+    - 104.16.155.115
+[736] Querying www.porndos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.108
+    - 172.67.184.164
+[737] Querying www.porno-zona.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.247
+    - 172.67.216.229
+[738] Querying www.pornhindisex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.202
+    - 172.67.192.52
+[739] Querying www.tameteo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.187.70
+    - 104.18.188.70
+[740] Querying www.tamilsexvids.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.239
+    - 104.26.9.239
+    - 172.67.69.238
+[741] Querying www.skynewsarabia.com for HTTPS record...
+  - No ipv4hint found
+[742] Querying www.sportingbet.bet.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.26.205
+    - 104.18.27.205
+[743] Querying www.rojadirectaenvivo.pl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.142
+    - 172.67.162.198
+[744] Querying www.sorrisi.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.30.192
+    - 104.18.31.192
+[745] Querying www.nukistream.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.38.248
+    - 172.67.141.40
+[746] Querying www.sexnyk.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.141
+    - 172.67.146.83
+[747] Querying www.sexneka.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.160
+    - 172.67.189.154
+[748] Querying www.sxyprn.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.137
+    - 172.67.193.88
+[749] Querying www.mbl.is for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.252
+    - 104.18.17.254
+[750] Querying www.sejda.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.190
+    - 104.26.1.190
+    - 172.67.69.40
+
+Progress: 750 domains processed
+  - Domains with ipv4hint: 689
+  - Total IPs collected: 1519
+
+[751] Querying www.timeanddate.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.20.57
+    - 104.18.21.57
+[752] Querying www.vivalocal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.112
+    - 172.64.148.144
+[753] Querying www.vatanbilgisayar.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.40.215
+    - 172.66.166.79
+[754] Querying www.typing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.173.119
+    - 104.18.174.119
+[755] Querying yadongkorea.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.59
+    - 172.67.210.106
+[756] Querying www.bbgg6688.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.30.239
+    - 172.67.174.48
+[757] Querying zmaal.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.111
+    - 172.67.161.164
+[758] Querying xnxxporn.video for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.143
+    - 172.67.213.136
+[759] Querying www.teachoo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.48
+    - 104.26.9.48
+    - 172.67.72.67
+[760] Querying yaoimangaonline.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.67.228
+    - 172.67.182.120
+[761] Querying www.watchmovierulz.fish for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.235
+    - 172.67.191.133
+[762] Querying xvideosbr.blog for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.215
+    - 172.67.169.195
+[763] Querying wholebodieswholeminds.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.138
+    - 172.67.208.230
+[764] Querying vymanga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.158
+    - 172.67.197.47
+[765] Querying 8171.bisp.gov.pk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.43.243
+    - 172.67.190.163
+[766] Querying 91porny.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.200
+    - 172.67.129.227
+[767] Querying 1jugabet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.65
+    - 104.26.1.65
+    - 172.67.72.116
+[768] Querying apnews.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.22.8
+    - 104.16.23.8
+[769] Querying animesonlinecc.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.140
+    - 172.67.145.145
+[770] Querying bash.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.0.184
+    - 104.18.1.184
+[771] Querying arabnok.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.13
+    - 172.67.190.198
+[772] Querying allsex.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.129
+    - 172.67.180.250
+[773] Querying bg.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[774] Querying app-sorteos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.252
+    - 172.67.153.254
+[775] Querying ci.jedolo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.44.100
+    - 172.66.169.62
+[776] Querying findnovel.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.22
+    - 172.67.182.74
+[777] Querying desiporn.link for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.75
+    - 172.67.159.76
+[778] Querying hu.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[779] Querying ganamosnet.biz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.144
+    - 172.67.177.112
+[780] Querying carnewz.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.178
+    - 172.67.162.104
+[781] Querying dto.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.4
+    - 172.67.182.149
+[782] Querying bunkr.cr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.126
+    - 172.67.142.152
+[783] Querying hotindianvids.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.22.189
+    - 172.67.206.162
+[784] Querying fhaccess.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.198
+    - 172.67.156.68
+[785] Querying 9xflix.dad for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.44
+    - 172.67.187.172
+[786] Querying espacioapk.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.165
+    - 104.26.11.165
+    - 172.67.73.9
+[787] Querying hentaimama.io for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.221
+    - 172.67.140.139
+[788] Querying hentaivnx.vip for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.93
+    - 172.67.145.54
+[789] Querying booth.pm for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.37.180
+    - 172.64.150.76
+[790] Querying hianime.do for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.61
+    - 172.67.205.249
+[791] Querying heylink.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.160.220
+    - 104.18.161.220
+[792] Querying filmexxx.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.185
+    - 172.67.171.47
+[793] Querying ipowatch.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.193
+    - 104.26.15.193
+    - 172.67.69.213
+[794] Querying khabarpu.com for HTTPS record...
+  - No HTTPS record
+[795] Querying javdb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.49.230
+    - 172.67.195.92
+[796] Querying kissjav.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.22.181
+    - 172.67.206.95
+[797] Querying hiwebxseries.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.17.55
+    - 172.67.222.85
+[798] Querying kuttymovies.you for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.143
+    - 172.67.170.118
+[799] Querying ak.amskiploomr.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.59
+    - 172.64.146.197
+[800] Querying gzone.ph for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.154
+    - 172.64.155.102
+
+Progress: 800 domains processed
+  - Domains with ipv4hint: 738
+  - Total IPs collected: 1621
+
+[801] Querying it.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[802] Querying docufind.org.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.67.121
+    - 172.67.221.229
+[803] Querying lagged.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.0.238
+    - 104.18.1.238
+[804] Querying la.spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[805] Querying kinogo.ec for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.56
+    - 104.18.23.56
+[806] Querying kinogo.online for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.83
+    - 104.18.13.83
+[807] Querying lat.betano.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.228.108
+    - 104.16.229.108
+[808] Querying m.malaysiakini.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.231
+    - 172.67.172.150
+[809] Querying naukaritimes24.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.14
+    - 172.67.175.175
+[810] Querying mangatoto.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.33.98
+    - 172.67.189.131
+[811] Querying oantagonista.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.16.167
+    - 104.18.17.167
+[812] Querying novelfire.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.29.216
+    - 172.67.171.222
+[813] Querying partsouq.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.34.24
+    - 172.66.175.169
+[814] Querying net20.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.42
+    - 104.26.1.42
+    - 172.67.68.209
+[815] Querying niji-gazo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.44.25
+    - 172.66.175.5
+[816] Querying portaldozacarias.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.181
+    - 172.67.162.107
+[817] Querying myaccount.mercadolivre.com.br for HTTPS record...
+  - No ipv4hint found
+[818] Querying pos4dtototogel67.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.47
+    - 172.67.143.179
+[819] Querying movies4u.ky for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.79
+    - 172.67.130.123
+[820] Querying play.wingzone.fun for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.41.67
+    - 172.66.166.150
+[821] Querying mto.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.92.168
+    - 172.67.196.143
+[822] Querying ro.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[823] Querying roadsteam.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.182
+    - 172.67.203.208
+[824] Querying olympusbiblioteca.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.33.152
+    - 172.67.146.136
+[825] Querying romanticgolpo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.68.143
+    - 172.67.196.42
+[826] Querying sobeautifulstneots.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.222
+    - 172.67.156.125
+[827] Querying programma.sorrisi.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.30.192
+    - 104.18.31.192
+[828] Querying notube.lol for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.30
+    - 104.26.1.30
+    - 172.67.72.144
+[829] Querying avtub.so for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.21
+    - 172.67.173.196
+[830] Querying smartapply.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[831] Querying toto12imperial.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.27
+    - 172.67.189.220
+[832] Querying tamilgun.group for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.73.105
+    - 172.67.189.167
+[833] Querying support.discord.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.128.233
+    - 162.159.135.232
+    - 162.159.136.232
+    - 162.159.137.232
+    - 162.159.138.232
+[834] Querying tools.pdf24.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.31
+    - 104.26.3.31
+    - 172.67.74.46
+[835] Querying uncen.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.30.99
+    - 172.67.172.186
+[836] Querying word.tips for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.126
+    - 104.18.13.126
+[837] Querying thehentai.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.71
+    - 104.26.9.71
+    - 172.67.74.198
+[838] Querying uk.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[839] Querying tubidy.cool for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.5.155
+    - 172.67.133.135
+[840] Querying www.curseforge.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.29.3
+    - 104.17.30.3
+[841] Querying www.bibliaonline.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.42.154
+    - 172.66.161.200
+[842] Querying www.apuestasroyal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.20.118
+    - 172.66.159.9
+[843] Querying trahkino.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.56
+    - 172.67.187.127
+[844] Querying wtr-lab.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.22.164
+    - 172.67.205.235
+[845] Querying www.adda247.com for HTTPS record...
+  - No ipv4hint found
+[846] Querying www.ashemaletube.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.23.181
+    - 172.66.148.2
+[847] Querying www.arionplay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.21.236
+    - 172.66.164.198
+[848] Querying www.ensonhaber.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.24.147
+    - 172.66.153.225
+[849] Querying www.conforama.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.231
+    - 104.18.9.231
+[850] Querying www.20min.ch for HTTPS record...
+  - No ipv4hint found
+
+Progress: 850 domains processed
+  - Domains with ipv4hint: 785
+  - Total IPs collected: 1722
+
+[851] Querying www.dnevno.hr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.208
+    - 172.67.147.149
+[852] Querying www.correio24horas.com.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.251
+    - 104.26.5.251
+    - 172.67.72.38
+[853] Querying www.futura-sciences.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.163
+    - 104.18.3.163
+[854] Querying www.47news.jp for HTTPS record...
+  - No ipv4hint found
+[855] Querying tv3.nontondrama.my for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.119
+    - 172.67.183.181
+[856] Querying tvmon.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.217
+    - 172.67.199.196
+[857] Querying www.kathimerini.gr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.35.170
+    - 172.66.148.202
+[858] Querying www.in3x.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.215
+    - 104.26.7.215
+    - 172.67.68.195
+[859] Querying www.hindixxx.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.26
+    - 104.26.3.26
+    - 172.67.72.165
+[860] Querying www.kumanga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.113
+    - 172.67.159.117
+[861] Querying www.28filmywap.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.234
+    - 172.67.202.20
+[862] Querying www.gsp.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.54
+    - 104.26.11.54
+    - 172.67.75.108
+[863] Querying www.go-manga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.212
+    - 104.26.13.212
+    - 172.67.72.210
+[864] Querying www.livesports088.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.9
+    - 172.67.173.188
+[865] Querying www.mondialrelay.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.35.50
+    - 172.64.152.206
+[866] Querying www.naftemporiki.gr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.17.36
+    - 172.66.160.176
+[867] Querying www.novel543.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.108
+    - 172.67.168.66
+[868] Querying www.matequiz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.22.204
+    - 172.67.206.235
+[869] Querying www.ancestry.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.39.163
+    - 172.64.148.93
+[870] Querying www.nepremicnine.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.16.59
+    - 172.66.152.69
+[871] Querying typingerz.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.175
+    - 172.67.160.88
+[872] Querying www.pagesjaunes.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.176.91
+    - 104.17.196.85
+[873] Querying www.travelandtourworld.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.210
+    - 104.26.1.210
+    - 172.67.72.190
+[874] Querying www.unian.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.33.66
+    - 172.66.162.208
+[875] Querying www.yupmanga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.120
+    - 104.26.3.120
+    - 172.67.75.3
+[876] Querying www.suruga-ya.jp for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.45.84
+    - 172.66.145.226
+[877] Querying www.tv3.lt for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.24
+    - 172.66.174.52
+[878] Querying www.yts-official.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.38
+    - 172.67.219.111
+[879] Querying www.estrelabet.bet.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.32
+    - 104.18.15.32
+[880] Querying xxxmovies.life for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.92.142
+    - 172.67.195.48
+[881] Querying www.yesstyle.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.144.80
+    - 104.18.145.80
+[882] Querying xn--72cc3cj1fsbk9jtci.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.118
+    - 172.67.207.92
+[883] Querying lover938.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.34.1
+    - 172.66.163.142
+[884] Querying www.tuazar.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.127
+    - 172.67.194.128
+[885] Querying www.voglioporno.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.30.215
+    - 172.67.173.241
+[886] Querying 123av.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.106
+    - 104.26.9.106
+    - 172.67.73.151
+[887] Querying aagmaal.loan for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.35
+    - 172.67.220.121
+[888] Querying bokepindo13.win for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.164
+    - 172.67.148.60
+[889] Querying animevietsub.show for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.63
+    - 104.26.3.63
+    - 172.67.74.173
+[890] Querying bbdownload.filesdl.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.110
+    - 172.67.218.145
+[891] Querying dewafilm.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.248
+    - 172.67.189.214
+[892] Querying bollyflix.do for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.24.127
+    - 172.67.218.204
+[893] Querying i69xx.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.70
+    - 172.67.187.203
+[894] Querying co.mileroticos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.29.46
+    - 172.66.158.219
+[895] Querying jobbmintatv.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.71.178
+    - 172.67.147.245
+[896] Querying distintas.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.149
+    - 104.26.7.149
+    - 172.67.73.213
+[897] Querying keonhacai55.pw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.21
+    - 172.67.159.13
+[898] Querying itest.5ch.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.243
+    - 104.26.15.243
+    - 172.67.74.208
+[899] Querying jav24hd.bio for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.69
+    - 172.67.187.140
+[900] Querying javsubid.sx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.39
+    - 172.67.204.69
+
+Progress: 900 domains processed
+  - Domains with ipv4hint: 834
+  - Total IPs collected: 1831
+
+[901] Querying katorsex.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.6.59
+    - 172.67.154.249
+[902] Querying chat.t1chat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.81.63
+    - 172.67.157.104
+[903] Querying kisskh.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.82.46
+    - 172.67.153.104
+[904] Querying loteriasdehoy.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.85.93
+    - 172.67.204.63
+[905] Querying fortnite.gg for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.30.240
+    - 172.66.166.114
+[906] Querying congtogelclean.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.41.156
+    - 172.67.148.39
+[907] Querying m.coolrom.com.au for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.193
+    - 172.67.168.160
+[908] Querying mxporn.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.81.101
+    - 172.67.141.164
+[909] Querying naurok.com.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.20
+    - 104.26.1.20
+    - 172.67.73.150
+[910] Querying metruyenhot.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.103
+    - 172.67.130.215
+[911] Querying mob.arabx88.mobi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.41
+    - 172.67.204.71
+[912] Querying mobalytics.gg for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.42.151
+    - 172.66.173.211
+[913] Querying manga18.club for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.182
+    - 172.67.131.2
+[914] Querying pasarbokep.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.106
+    - 172.67.193.16
+[915] Querying ogomovies.cat for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.228
+    - 172.67.162.52
+[916] Querying nasional.kompas.com for HTTPS record...
+  - No ipv4hint found
+[917] Querying sarkaricsc.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.232
+    - 172.67.168.148
+[918] Querying rupalipalace.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.193
+    - 172.67.217.243
+[919] Querying rs.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[920] Querying ricette.giallozafferano.it for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.127
+    - 104.18.13.127
+[921] Querying platinmods.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.59
+    - 104.26.15.59
+    - 172.67.70.14
+[922] Querying sangtacviet.app for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.28
+    - 172.67.150.160
+[923] Querying qidtime.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.67.203
+    - 172.67.180.148
+[924] Querying sportfilm800.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.30
+    - 172.67.130.37
+[925] Querying nofeu.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.61
+    - 172.67.162.145
+[926] Querying sextb.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.149
+    - 104.26.11.149
+    - 172.67.70.13
+[927] Querying sex-studentki.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.23.174
+    - 172.66.147.125
+[928] Querying opga037.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.23.117
+    - 172.67.210.212
+[929] Querying simontokx.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.45
+    - 172.67.128.133
+[930] Querying rolexpanel.win for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.35
+    - 172.67.199.124
+[931] Querying suki-kira.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.18.200
+    - 172.66.162.172
+[932] Querying sv.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[933] Querying toto12imperial.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.106
+    - 172.67.129.23
+[934] Querying workupjob.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.36.26
+    - 172.66.150.88
+[935] Querying waveved.website for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.223
+    - 172.67.193.132
+[936] Querying www.678bd44.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.28.81
+    - 104.18.29.81
+[937] Querying th.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[938] Querying tkor079.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.60.66
+    - 172.67.193.23
+[939] Querying tawk.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.42.169
+    - 172.66.161.212
+[940] Querying tdxflix.store for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.88.133
+    - 172.67.180.18
+[941] Querying vegamovies.cricket for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.183
+    - 172.67.139.122
+[942] Querying tube4world.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.115
+    - 172.67.135.250
+[943] Querying tiktokio.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.78.125
+    - 172.67.221.193
+[944] Querying www.123hdtv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.213
+    - 104.26.13.213
+    - 172.67.68.1
+[945] Querying tr.investing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.151
+    - 172.64.155.105
+[946] Querying www.coca-cola.com for HTTPS record...
+  - No ipv4hint found
+[947] Querying www.dizibox.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.108
+    - 104.26.7.108
+    - 172.67.72.173
+[948] Querying wap.nnppffccddggdd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.95
+    - 172.67.206.247
+[949] Querying www.fsiblog5.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.6
+    - 104.26.13.6
+    - 172.67.75.139
+[950] Querying www.heute.at for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.117
+    - 104.18.23.117
+
+Progress: 950 domains processed
+  - Domains with ipv4hint: 882
+  - Total IPs collected: 1933
+
+[951] Querying www.deckshop.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.21.254
+    - 172.66.164.228
+[952] Querying www.decathlon.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.201
+    - 172.64.151.55
+[953] Querying tiger365.pro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.13.252
+    - 172.67.133.145
+[954] Querying www.888scoreonline.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.44.231
+    - 172.66.169.176
+[955] Querying www.derslig.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.14
+    - 104.26.5.14
+    - 172.67.75.11
+[956] Querying www.ilrestodelcarlino.it for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.120
+    - 104.26.3.120
+    - 172.67.75.3
+[957] Querying www.jovencitas.gratis for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.241
+    - 172.67.192.26
+[958] Querying www.fotomac.com.tr for HTTPS record...
+  - No ipv4hint found
+[959] Querying www.hdfr985.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 154.194.12.11
+    - 154.194.12.13
+    - 154.194.12.15
+    - 154.194.12.17
+    - 154.194.12.19
+[960] Querying www.famousbirthdays.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.85.60
+    - 104.16.86.60
+[961] Querying www.javlibrary.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.8.210
+    - 172.67.130.174
+[962] Querying www.27filmywap.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.5
+    - 172.67.141.204
+[963] Querying www.mozzartbet.co.ke for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.10.240
+    - 104.18.11.240
+[964] Querying www.milffox.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.231
+    - 104.26.15.231
+    - 172.67.74.35
+[965] Querying www.freejobalert.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.152
+    - 104.26.5.152
+    - 172.67.74.249
+[966] Querying www.list.am for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.26.18
+    - 172.66.156.124
+[967] Querying www.pussyspace.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.13.91
+    - 172.67.167.233
+[968] Querying www.live-match.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.53.249
+    - 172.67.221.32
+[969] Querying www.nagad88f.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.118
+    - 104.18.3.118
+[970] Querying www.nagad88a.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.28.193
+    - 104.18.29.193
+[971] Querying www.pexels.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.66.220
+    - 104.18.67.220
+[972] Querying www.ryanair.com for HTTPS record...
+  - No ipv4hint found
+[973] Querying n2ch.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.101
+    - 172.67.192.81
+[974] Querying www.haydigiy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.17.8
+    - 172.66.146.88
+[975] Querying www.sueddeutsche.de for HTTPS record...
+  - No ipv4hint found
+[976] Querying www.sidrachain.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.80
+    - 104.26.7.80
+    - 172.67.73.70
+[977] Querying www.sex-masry.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.6.155
+    - 172.67.134.252
+[978] Querying www.sexindrag.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.41
+    - 172.67.219.81
+[979] Querying www.tvguia.es for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.47.46
+    - 172.66.148.34
+[980] Querying www.xvlivecams.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.207.112
+    - 104.18.208.112
+[981] Querying www.vg.hu for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.112
+    - 104.26.5.112
+    - 172.67.72.39
+[982] Querying yadongtv84.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.32.22
+    - 172.67.182.74
+[983] Querying xhamsterlive.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.111.106
+    - 104.17.112.106
+[984] Querying www.therapynotes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.36.27
+    - 104.18.254.56
+[985] Querying xnxxvideos.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.138
+    - 172.67.168.81
+[986] Querying www.videosdemadurasx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.12
+    - 104.26.13.12
+    - 172.67.74.251
+[987] Querying www.scribblehub.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.62
+    - 104.26.7.62
+    - 172.67.69.146
+[988] Querying www.cultura.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.135
+    - 104.18.5.135
+[989] Querying earringsbyamy.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.67
+    - 172.67.180.185
+[990] Querying 18av.mm-cg.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.29.35
+    - 172.67.171.75
+[991] Querying 3xnungsex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.38.146
+    - 172.67.223.167
+[992] Querying alexiscosmo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.72
+    - 172.67.169.56
+[993] Querying arionplay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.21.236
+    - 172.66.164.198
+[994] Querying arabshentai.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.43.87
+    - 172.66.162.76
+[995] Querying bustybus.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.68
+    - 172.67.217.153
+[996] Querying doujindesu.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.62
+    - 104.26.9.62
+    - 172.67.75.187
+[997] Querying best.pornktube.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.24.72
+    - 172.67.217.93
+[998] Querying dal.ahwaktv.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.23.132
+    - 172.67.211.75
+[999] Querying demonicscans.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.208
+    - 172.67.147.149
+[1000] Querying freevideo.cz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.158
+    - 172.67.180.139
+
+Progress: 1000 domains processed
+  - Domains with ipv4hint: 929
+  - Total IPs collected: 2039
+
+[1001] Querying garotacomlocal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.17.168
+    - 172.66.145.150
+[1002] Querying faphouse2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.243
+    - 172.67.185.212
+[1003] Querying gr.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[1004] Querying abdelmaaboud.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.187
+    - 104.26.9.187
+    - 172.67.75.219
+[1005] Querying bampt2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.78.137
+    - 172.67.222.105
+[1006] Querying dualeotruyenjd.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.21.216
+    - 172.67.200.153
+[1007] Querying infoabgviral.baby for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.187
+    - 172.67.223.186
+[1008] Querying hoathinh3d.gg for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.218
+    - 104.26.5.218
+    - 172.67.73.220
+[1009] Querying grok.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.28.234
+    - 104.18.29.234
+[1010] Querying hil.xhamster.desi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.69.7
+    - 172.67.202.84
+[1011] Querying id.spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[1012] Querying komikindo.ch for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.49.106
+    - 172.67.189.191
+[1013] Querying d21.team for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.60.200
+    - 172.67.201.22
+[1014] Querying ko.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[1015] Querying es.xhamsterlive.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.111.106
+    - 104.17.112.106
+[1016] Querying m.animeflv.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.60
+    - 172.67.215.166
+[1017] Querying m.ruta1000.com.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.40
+    - 172.67.161.101
+[1018] Querying m.esportesdasorte.bet.br for HTTPS record...
+  - No ipv4hint found
+[1019] Querying m.wfxs.tw for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.238
+    - 104.26.1.238
+    - 172.67.70.148
+[1020] Querying m.wplay.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.249.101
+    - 104.18.250.101
+[1021] Querying manhwa-latino.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.111
+    - 172.67.193.96
+[1022] Querying manjurshiokambing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.40.58
+    - 172.67.176.180
+[1023] Querying m.vaidebet.bet.br for HTTPS record...
+  - No ipv4hint found
+[1024] Querying ms4.badak178regist.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 45.194.53.26
+    - 45.194.53.52
+[1025] Querying okdiario.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.18.5
+    - 104.18.19.5
+[1026] Querying myvidplay.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.13
+    - 104.26.13.13
+    - 172.67.72.185
+[1027] Querying s7.nontonanimeid.boats for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.197
+    - 172.67.169.163
+[1028] Querying oldschool.runescape.wiki for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.39.105
+    - 172.66.165.40
+[1029] Querying pornobrasil.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.11.64
+    - 172.67.165.81
+[1030] Querying rateyourmusic.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.22.242
+    - 172.66.174.245
+[1031] Querying voz.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.171
+    - 104.26.3.171
+    - 172.67.68.194
+[1032] Querying wavevide.website for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.84.158
+    - 172.67.194.147
+[1033] Querying toonstream.one for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.17.66
+    - 172.67.223.2
+[1034] Querying th.spankbang.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.96.242
+    - 104.19.239.156
+[1035] Querying www.abozeb.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.142
+    - 172.67.177.110
+[1036] Querying winbuzz.org for HTTPS record...
+  - No ipv4hint found
+[1037] Querying thebellmurrow.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.34.117
+    - 172.67.204.195
+[1038] Querying truyenwikidich.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.237
+    - 172.67.190.122
+[1039] Querying visormanga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.175
+    - 172.67.130.252
+[1040] Querying www.angelone.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.38.177
+    - 172.64.149.79
+[1041] Querying www.careerpower.in for HTTPS record...
+  - No ipv4hint found
+[1042] Querying www.borsaitaliana.it for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.38.127
+    - 172.64.149.129
+[1043] Querying www.downringtone.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.64
+    - 172.67.216.250
+[1044] Querying www.24chasa.bg for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.104
+    - 172.67.217.215
+[1045] Querying www.empik.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.218.109
+    - 104.17.219.109
+[1046] Querying www.decolar.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.10
+    - 172.66.1.8
+[1047] Querying viideeeee.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.76
+    - 172.67.144.225
+[1048] Querying www.elitebabes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.39
+    - 172.67.142.196
+[1049] Querying www.gekso.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.117
+    - 172.67.152.72
+[1050] Querying www.callbomberz.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.45
+    - 172.67.176.9
+
+Progress: 1050 domains processed
+  - Domains with ipv4hint: 975
+  - Total IPs collected: 2136
+
+[1051] Querying vlxx.bz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.16.23
+    - 172.67.165.249
+[1052] Querying www.libertatea.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.135.249
+    - 172.66.138.254
+[1053] Querying www.hdfilmizle.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.172
+    - 172.67.163.83
+[1054] Querying www.intimissimi.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.248.224
+    - 104.18.249.224
+[1055] Querying www.investing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.151
+    - 172.64.155.105
+[1056] Querying www.bombuj.si for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.36
+    - 172.67.174.107
+[1057] Querying www.johnpyeauctions.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.168
+    - 104.18.23.168
+[1058] Querying ww8.123moviesfree.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.27
+    - 172.67.151.227
+[1059] Querying www.lavoz.com.ar for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.245
+    - 104.18.13.245
+[1060] Querying www.manhwaland.baby for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.144
+    - 172.67.195.26
+[1061] Querying www.mkvmoviespoint.mba for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.58.24
+    - 172.67.155.6
+[1062] Querying www.nz1212.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.70
+    - 172.67.142.47
+[1063] Querying www.instant-gaming.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.124
+    - 104.18.5.124
+[1064] Querying www.planetminecraft.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.23.178
+    - 172.66.147.195
+[1065] Querying www.slow-manga.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.23.133
+    - 172.67.211.76
+[1066] Querying n1info.rs for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.42.100
+    - 172.64.145.156
+[1067] Querying www.tamilprint53.art for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.28
+    - 172.67.190.253
+[1068] Querying www.photoacompanhantes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.128.154
+    - 104.16.191.215
+[1069] Querying www.sklum.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.10.76
+    - 104.16.232.78
+[1070] Querying www.klix.ba for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.45.85
+    - 172.66.145.227
+[1071] Querying www.theyarehuge.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.240
+    - 104.26.9.240
+    - 172.67.68.220
+[1072] Querying www.vivastreet.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.80
+    - 172.64.146.176
+[1073] Querying yama96.jp for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.1.10
+    - 172.67.151.186
+[1074] Querying xhamster3.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.57.123
+    - 172.67.145.195
+[1075] Querying www.vietnam.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.42.91
+    - 172.66.167.152
+[1076] Querying www.yasyadong.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.65.26
+    - 172.67.139.222
+[1077] Querying www30.mercantilbanco.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.18.157
+    - 104.18.19.157
+[1078] Querying www.gimkit.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.4.18
+    - 172.67.131.134
+[1079] Querying es.investing.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.32.151
+    - 172.64.155.105
+[1080] Querying loyalty.coinmaster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.43.103
+    - 172.64.144.153
+[1081] Querying 02.ikiru.wtf for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.48.71
+    - 172.67.181.50
+[1082] Querying 7dak.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.25.96
+    - 172.66.167.68
+[1083] Querying adamieva.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.232
+    - 104.26.7.232
+    - 172.67.70.102
+[1084] Querying adv.clickadu.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.19.230.105
+    - 104.19.231.105
+[1085] Querying 9jarocks.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.20.6
+    - 172.67.190.190
+[1086] Querying arabsex.is for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.107
+    - 104.26.1.107
+    - 172.67.69.251
+[1087] Querying allyonostore.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.159
+    - 172.67.151.117
+[1088] Querying arenascan.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.14.205
+    - 172.67.160.140
+[1089] Querying chun2.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.42.168
+    - 172.64.145.88
+[1090] Querying apkvision.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.251
+    - 104.26.11.251
+    - 172.67.70.66
+[1091] Querying comiko.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.15.51
+    - 172.67.161.181
+[1092] Querying chich.blog for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.243
+    - 104.26.7.243
+    - 172.67.69.5
+[1093] Querying beeg.porn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.7
+    - 172.67.184.95
+[1094] Querying dropmms.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.70.91
+    - 172.67.222.45
+[1095] Querying hello.porn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.56.110
+    - 172.67.184.166
+[1096] Querying ebet.co.sz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.206
+    - 172.67.183.168
+[1097] Querying jugabet.cl for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.8
+    - 104.26.9.8
+    - 172.67.75.89
+[1098] Querying fhcontent.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.6.248
+    - 172.67.135.131
+[1099] Querying beastiality.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.59.248
+    - 172.67.186.75
+[1100] Querying batotoo.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.87.87
+    - 172.67.142.136
+
+Progress: 1100 domains processed
+  - Domains with ipv4hint: 1025
+  - Total IPs collected: 2242
+
+[1101] Querying juan365.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.22.211
+    - 104.18.23.211
+[1102] Querying de.eporner.com for HTTPS record...
+  - No ipv4hint found
+[1103] Querying hentairead.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.21.146
+    - 172.67.199.33
+[1104] Querying justindianporn.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.18.30
+    - 172.67.179.232
+[1105] Querying infostream-hub.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.10
+    - 172.67.140.210
+[1106] Querying javtiful.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.154
+    - 172.67.178.57
+[1107] Querying en.thehentai.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.71
+    - 104.26.9.71
+    - 172.67.74.198
+[1108] Querying erotikchat4free.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.116
+    - 172.67.158.232
+[1109] Querying go.search-start.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.38
+    - 172.67.189.231
+[1110] Querying lingbokep.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.26.104
+    - 172.67.135.221
+[1111] Querying madurird.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.215
+    - 172.67.190.58
+[1112] Querying mangadex.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 45.129.229.1
+    - 45.129.229.2
+[1113] Querying mobizil.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.6.125
+    - 172.67.134.217
+[1114] Querying nyahentai.one for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.245
+    - 172.67.201.99
+[1115] Querying old-mobile.olimpbet.kz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 185.176.26.35
+    - 185.176.26.45
+    - 185.176.26.55
+    - 185.176.26.65
+    - 185.176.26.75
+    - 185.176.26.120
+    - 185.176.26.130
+    - 185.176.26.140
+[1116] Querying places.mercadolibre.com.mx for HTTPS record...
+  - No ipv4hint found
+[1117] Querying sarapbabe.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.67.118
+    - 172.67.221.216
+[1118] Querying olxlem.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.10.157
+    - 172.67.131.139
+[1119] Querying secure.login.gov for HTTPS record...
+  - No ipv4hint found
+[1120] Querying romsfun.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.236
+    - 104.26.13.236
+    - 172.67.75.236
+[1121] Querying rongbachkim.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.39.74
+    - 172.67.143.168
+[1122] Querying shafa.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.82
+    - 104.26.9.82
+    - 172.67.75.13
+[1123] Querying quasarzone.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.55
+    - 104.18.9.55
+[1124] Querying pornarabi.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.8.216
+    - 172.67.140.69
+[1125] Querying pangkalantoto.forum for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.17.189
+    - 172.67.178.21
+[1126] Querying sexbebin.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.191
+    - 104.26.9.191
+    - 172.67.73.99
+[1127] Querying sedirkettering.co.uk for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.34.137
+    - 172.67.161.135
+[1128] Querying sam.8888.porn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.8
+    - 172.67.150.165
+[1129] Querying twittervideodownloader.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.28.253
+    - 172.66.170.189
+[1130] Querying sweetastes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.29.96
+    - 172.67.148.187
+[1131] Querying www.albumoftheyear.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.195
+    - 104.26.5.195
+    - 172.67.68.166
+[1132] Querying www.1377x.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.13.219
+    - 172.67.133.75
+[1133] Querying www.apuestatotal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.233
+    - 104.18.15.233
+[1134] Querying www.aqi.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.130
+    - 104.26.15.130
+    - 172.67.71.118
+[1135] Querying timebucks.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.32.93
+    - 172.66.167.229
+[1136] Querying tsn.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.82
+    - 104.26.13.82
+    - 172.67.74.194
+[1137] Querying www.fsiblog.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.145
+    - 104.26.9.145
+    - 172.67.69.20
+[1138] Querying www.figma.com for HTTPS record...
+  - No ipv4hint found
+[1139] Querying www.allfreenovel.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.65
+    - 172.67.153.118
+[1140] Querying www.betpk55.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.30.27
+    - 104.18.31.27
+[1141] Querying www.fogaonet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.196
+    - 104.26.7.196
+    - 172.67.73.204
+[1142] Querying www.betano.pe for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.35.221
+    - 172.64.152.35
+[1143] Querying www.fullhindisex.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.71.73
+    - 172.67.143.228
+[1144] Querying www.dochord.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.221
+    - 104.26.15.221
+    - 172.67.74.247
+[1145] Querying www.banglachotikahinii.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.136
+    - 104.26.3.136
+    - 172.67.71.28
+[1146] Querying www.chinatimes.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 172.66.134.48
+    - 172.66.140.98
+[1147] Querying tv12.idlixku.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.185
+    - 104.26.5.185
+    - 172.67.73.54
+[1148] Querying www.eatingwell.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[1149] Querying www.fotor.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.14.48
+    - 104.18.15.48
+[1150] Querying www.kaufland.de for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.12
+    - 172.66.1.10
+
+Progress: 1150 domains processed
+  - Domains with ipv4hint: 1071
+  - Total IPs collected: 2352
+
+[1151] Querying www.hdfc.bank.in for HTTPS record...
+  - No ipv4hint found
+[1152] Querying www.masstamilan.dev for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.21
+    - 104.26.11.21
+    - 172.67.70.198
+[1153] Querying www.hindibluefilm.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.171
+    - 172.67.152.52
+[1154] Querying ww4.fmovies.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.57.226
+    - 172.67.193.22
+[1155] Querying www.momvids.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.177
+    - 104.26.7.177
+    - 172.67.75.191
+[1156] Querying www.mariefrance.fr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.240
+    - 104.26.13.240
+    - 172.67.69.133
+[1157] Querying www.meteored.mx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.96.71
+    - 104.17.251.69
+[1158] Querying www.obozrevatel.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.220
+    - 104.26.15.220
+    - 172.67.69.11
+[1159] Querying www.loaded.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.10.182
+    - 104.18.11.182
+[1160] Querying www.novelupdates.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.28
+    - 104.26.15.28
+    - 172.67.69.82
+[1161] Querying www.pornolandia.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.17.209
+    - 172.67.178.79
+[1162] Querying www.sellatuparley.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.45
+    - 104.26.11.45
+    - 172.67.74.225
+[1163] Querying www.mudah.my for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.79.116
+    - 104.17.80.116
+[1164] Querying www.ntv.com.tr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.27.69
+    - 172.66.172.228
+[1165] Querying www.messenger.com for HTTPS record...
+  - No ipv4hint found
+[1166] Querying www.sarthaks.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.26
+    - 104.26.7.26
+    - 172.67.73.49
+[1167] Querying www.sarkariexam.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.47
+    - 104.26.7.47
+    - 172.67.73.219
+[1168] Querying www.sciencealert.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.18.94
+    - 104.18.19.94
+[1169] Querying www.soccervital.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.137
+    - 172.67.215.44
+[1170] Querying www.thehindu.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.8.4
+    - 104.18.9.4
+[1171] Querying www.seiska.fi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.33.244
+    - 172.64.154.12
+[1172] Querying zefoy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.29
+    - 104.26.1.29
+    - 172.67.70.217
+[1173] Querying zecpro.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.37.81
+    - 172.64.150.175
+[1174] Querying xn--2-nyf3aak0c.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.92.52
+    - 172.67.186.206
+[1175] Querying www.semprot.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.9.82
+    - 172.67.130.214
+[1176] Querying www.videosxgays.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.76.124
+    - 172.67.194.249
+[1177] Querying yesplay.bet for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.35.194
+    - 172.66.149.85
+[1178] Querying xprimehub.my for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.164
+    - 172.67.178.183
+[1179] Querying www.zaiim.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.52.56
+    - 172.67.195.241
+[1180] Querying www4.javhdporn.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.8.54
+    - 172.67.156.223
+[1181] Querying www4.javdock.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.89.46
+    - 172.67.156.115
+[1182] Querying www3.animeflv.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.60
+    - 172.67.215.166
+[1183] Querying www.theblowers.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.44.134
+    - 172.66.163.98
+[1184] Querying www.cumhuriyet.com.tr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.194
+    - 104.26.11.194
+    - 172.67.73.233
+[1185] Querying www.alarabiya.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.33.107
+    - 172.64.154.149
+[1186] Querying watchhentai.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.208
+    - 172.67.213.114
+[1187] Querying www.buumal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.42
+    - 172.67.219.82
+[1188] Querying www.croxyproxy.rocks for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.232
+    - 104.26.7.232
+    - 172.67.70.102
+[1189] Querying www.destacamos.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.33.69
+    - 172.66.162.211
+[1190] Querying www.danword.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.176
+    - 172.67.210.159
+[1191] Querying www.fragrantica.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.6.190
+    - 104.18.7.190
+[1192] Querying www.fragrantica.es for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.12.182
+    - 104.18.13.182
+[1193] Querying www.wapoz.info for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.96.140
+    - 172.67.181.165
+[1194] Querying w.cimalight.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.75
+    - 104.26.13.75
+    - 172.67.71.1
+[1195] Querying boards.4chan.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.228.229
+    - 104.16.229.229
+[1196] Querying wwww.avclipx.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.55.63
+    - 172.67.145.93
+[1197] Querying wwww.avkuy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.197
+    - 104.26.7.197
+    - 172.67.73.193
+[1198] Querying 01.komiku.asia for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.4.73
+    - 104.26.5.73
+    - 172.67.73.106
+[1199] Querying 7mmtv.sx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.71.233
+    - 172.67.172.20
+[1200] Querying accountscenter.facebook.com for HTTPS record...
+  - No ipv4hint found
+
+Progress: 1200 domains processed
+  - Domains with ipv4hint: 1118
+  - Total IPs collected: 2460
+
+[1201] Querying claude.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 160.79.104.10
+[1202] Querying animeshentai.biz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.67.150
+    - 172.67.177.92
+[1203] Querying ca.indeed.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.129.67
+    - 162.159.130.67
+[1204] Querying arabsex1.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.23
+    - 172.67.222.9
+[1205] Querying arbada.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.62.171
+    - 172.67.137.143
+[1206] Querying bustimes.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.101
+    - 172.67.158.203
+[1207] Querying arenaplus.ph for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.36.57
+    - 172.64.151.199
+[1208] Querying cricbet99.green for HTTPS record...
+  - No ipv4hint found
+[1209] Querying hi.xhamster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.146.40
+    - 104.18.147.40
+[1210] Querying apkaward.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.233
+    - 172.67.134.225
+[1211] Querying chochox.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.4.22
+    - 172.67.131.143
+[1212] Querying eksisozluk.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.22.102
+    - 172.66.172.175
+[1213] Querying gomuraw.blog for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.61.47
+    - 172.67.206.5
+[1214] Querying fr.stripchat.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.117.12
+    - 104.17.118.12
+[1215] Querying censor.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.22.246
+    - 172.66.174.248
+[1216] Querying hdtodayz.to for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.74.225
+    - 172.67.164.13
+[1217] Querying emojidb.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.23.142
+    - 172.67.211.164
+[1218] Querying danviet.vn for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.37.120
+    - 172.67.208.24
+[1219] Querying freeporno.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.93.223
+    - 172.67.216.79
+[1220] Querying gimytv.ai for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.94.37
+    - 172.67.219.5
+[1221] Querying gstadmission.ac.bd for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.63.32
+    - 172.67.142.173
+[1222] Querying asupanbrocill.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.46.76
+    - 172.67.136.104
+[1223] Querying dochii.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.68.137
+    - 172.67.195.236
+[1224] Querying ayhal.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.60.62
+    - 172.67.192.181
+[1225] Querying hentaihaven.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.94
+    - 104.26.9.94
+    - 172.67.68.241
+[1226] Querying hentaifox.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.89
+    - 104.26.13.89
+    - 172.67.72.105
+[1227] Querying es.xgroovy.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.79.197
+    - 172.67.171.8
+[1228] Querying kiryuu03.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.28.235
+    - 172.67.147.201
+[1229] Querying klickpin.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.77.118
+    - 172.67.207.92
+[1230] Querying lek-manga.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.164
+    - 172.67.163.139
+[1231] Querying kinogo.inc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.79
+    - 104.26.1.79
+    - 172.67.70.2
+[1232] Querying m.fringster.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.31.63
+    - 172.67.175.57
+[1233] Querying mobcup.com.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.11.227
+    - 172.67.192.222
+[1234] Querying mmsdose.live for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.51.117
+    - 172.67.180.41
+[1235] Querying pas-mantap.fun for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.95.49
+    - 172.67.143.66
+[1236] Querying ms11.pohonemas33.website for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 45.194.53.26
+    - 45.194.53.52
+[1237] Querying pornokk.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.36
+    - 104.26.9.36
+    - 172.67.68.236
+[1238] Querying novelfull.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.156
+    - 104.26.3.156
+    - 172.67.75.225
+[1239] Querying myhentaicomics.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.5.101
+    - 104.20.11.101
+[1240] Querying mykadri.tv for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.101
+    - 104.26.1.101
+    - 172.67.70.239
+[1241] Querying onlinevkino.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.17
+    - 172.67.184.116
+[1242] Querying nagalandstatelottery.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.75.74
+    - 172.67.216.155
+[1243] Querying naga-50.xyz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.80.115
+    - 172.67.180.129
+[1244] Querying pcpartpicker.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.17.156.24
+    - 104.18.99.52
+[1245] Querying otakudesu.best for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.29
+    - 172.67.174.36
+[1246] Querying moviesmod.cards for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.95
+    - 172.67.179.200
+[1247] Querying movieswood.cloud for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.48.253
+    - 172.67.139.224
+[1248] Querying pendujatt.com.se for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.3.199
+    - 172.67.131.38
+[1249] Querying oblenergo.cv.ua for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.86.194
+    - 172.67.136.30
+[1250] Querying sattamatkaresult.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.33
+    - 104.26.9.33
+    - 172.67.72.254
+
+Progress: 1250 domains processed
+  - Domains with ipv4hint: 1167
+  - Total IPs collected: 2564
+
+[1251] Querying porno18.site for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.2.63
+    - 172.67.128.214
+[1252] Querying sexallarab.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.226
+    - 104.26.15.226
+    - 172.67.72.49
+[1253] Querying sofifa.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.17.170
+    - 172.66.154.26
+[1254] Querying steamunlocked.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.4
+    - 104.26.15.4
+    - 172.67.74.83
+[1255] Querying simple.claro.com.ar for HTTPS record...
+  - No ipv4hint found
+[1256] Querying twkan.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.2.116
+    - 104.26.3.116
+    - 172.67.74.245
+[1257] Querying tellybiz.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.218
+    - 172.67.210.104
+[1258] Querying uncutmaza.com.co for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.19.202
+    - 172.67.188.156
+[1259] Querying www.akakce.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.2.45
+    - 104.18.3.45
+[1260] Querying speed-manga.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.24.136
+    - 172.67.218.245
+[1261] Querying www.emlakjet.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.28.32
+    - 172.66.152.89
+[1262] Querying videyly.space for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.81.230
+    - 172.67.165.194
+[1263] Querying hotpic.cc for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.66.199
+    - 172.67.164.31
+[1264] Querying www.bonprix.de for HTTPS record...
+  - No ipv4hint found
+[1265] Querying www.escortsandbabes.com.au for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.24.87
+    - 104.18.25.87
+[1266] Querying www.amarujala.com for HTTPS record...
+  - No ipv4hint found
+[1267] Querying www.jutarnji.hr for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.16.125.63
+    - 104.16.126.63
+[1268] Querying www.filmyzilla27.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.36.42
+    - 172.67.185.47
+[1269] Querying www.britannica.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.4.110
+    - 104.18.5.110
+[1270] Querying www.atcpulsa.life for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.14
+    - 172.67.140.158
+[1271] Querying www.kizlarsoruyor.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.0.8
+    - 104.26.1.8
+    - 172.67.74.104
+[1272] Querying www.cimri.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.21.193
+    - 172.66.158.134
+[1273] Querying www.perfectgirls.xxx for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.7.197
+    - 172.67.156.67
+[1274] Querying nungxthai.me for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.27.230
+    - 172.67.169.206
+[1275] Querying www.movieffm.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.45.231
+    - 172.67.219.178
+[1276] Querying www.nitrotype.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.198.37
+    - 104.18.199.37
+[1277] Querying www.startech.com.bd for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.251
+    - 104.26.11.251
+    - 172.67.70.66
+[1278] Querying www.flightradar24.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.97.112
+    - 104.18.98.112
+[1279] Querying www.meta.ai for HTTPS record...
+  - No ipv4hint found
+[1280] Querying www.southernliving.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.141.224
+    - 172.66.1.220
+[1281] Querying www.skokka.com.pe for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.42.31
+    - 172.64.145.225
+[1282] Querying www.sport.ro for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.16.63
+    - 104.18.17.63
+[1283] Querying www.pictoa.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.10.113
+    - 104.26.11.113
+    - 172.67.74.171
+[1284] Querying www.whitepages.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.41.32
+    - 172.64.146.224
+[1285] Querying www.xmishti.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.153
+    - 104.26.7.153
+    - 172.67.69.92
+[1286] Querying www.truepeoplesearch.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.21.225
+    - 172.66.170.171
+[1287] Querying x.3seq.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.83.225
+    - 172.67.182.99
+[1288] Querying yadong.party for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.26.203
+    - 172.66.170.24
+[1289] Querying xxxshame.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.12.192
+    - 172.67.132.95
+[1290] Querying xnxx-aflam.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.90.205
+    - 172.67.161.42
+[1291] Querying zamin.uz for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.6.173
+    - 104.26.7.173
+    - 172.67.69.29
+[1292] Querying es.luxuretv.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.38.53
+    - 172.66.145.129
+[1293] Querying es.savefrom.net for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.20.20.139
+    - 172.66.159.118
+[1294] Querying onlar.az for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.72.112
+    - 172.67.182.246
+[1295] Querying xvideos.blog.br for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.12.119
+    - 104.26.13.119
+    - 172.67.70.172
+[1296] Querying xgx.mobi for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.25.59
+    - 172.67.223.49
+[1297] Querying watchanimeworld.in for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.42.73
+    - 172.67.159.19
+[1298] Querying thepiratebay.org for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 162.159.136.6
+    - 162.159.137.6
+[1299] Querying www.alpha-hen.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.21.64.52
+    - 172.67.176.92
+[1300] Querying www.crunchyroll.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.18.34.202
+    - 172.64.153.54
+
+Progress: 1300 domains processed
+  - Domains with ipv4hint: 1213
+  - Total IPs collected: 2665
+
+[1301] Querying www.doujin-y.com for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.8.139
+    - 104.26.9.139
+    - 172.67.71.3
+[1302] Querying www.elbalad.news for HTTPS record...
+  ✓ Found ipv4hint(s)
+    - 104.26.14.191
+    - 104.26.15.191
+    - 172.67.69.123
+
+======================================
+Extraction completed at: Mon 26 Jan 2026 12:12:13 PM +08
+======================================
+Total domains processed: 1302
+Domains with ipv4hint: 1215
+Total IPs collected: 2671
+
+ipv4hint presence rate: 93.32%
