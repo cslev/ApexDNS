@@ -1,6 +1,10 @@
 # ApexDNS
 This repo is for hacking your local DNS to make encrypted web browsing blazingly fast.
 
+<p align="center">
+  <img src="assets/apexdns.png" alt="ApexDNS" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</p>
+
 ## Problem of today's Internet
 While the fastest encrypted protocol, QUIC, is getting ubiquitous, fully benefitting from it requires a lot of extra steps that might defeat its whole purpose, especially the fast initial connections.
 
@@ -118,6 +122,9 @@ There is a web interface for dnsdist running by default at `http://127.0.0.1:808
 ![dnsdist image](assets/dnsdist_webinterface.png)
 
 Alternatively, can view `/var/log/dnsdist.log`.
+
+# NANOG 95 Presentation
+Presentation slides are available in `assets/slides/`.
 
 
 
